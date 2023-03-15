@@ -1,0 +1,41 @@
+Подрядчик. Отметка о взятие/выполнения работы
+{ 
+"request_type": "contractor_take_to_work",
+"basic_eventid": 115,
+"eventid": 110,
+"contractor_id": "ba851928-90a0-11ec-80e7-00155d05b92a",
+"completed": 0
+}
+
+Подрядчик. Смещение даты выполнения работы
+{ 
+"request_type": "contractor_deadline",
+"basic_eventid": 115,
+"eventid": 100,
+"contractor_id": "ba851928-90a0-11ec-80e7-00155d05b92a",
+"deadline": "23.01.2021"
+}
+
+Менеджер. Обработать оценку качества выполненной заявки на гарантию
+{ 
+"request_type": "quality_assessment",
+"basic_eventid": 115,
+"assessment": 2
+}
+
+
+Клиент. Отклонить выполненную заявку
+{
+    "request_type": "clients_refusal",
+    "basic_eventid": 115,
+    "reason": "Не устраивает качество выполненных работ"
+}
+
+request_type - тип запроса, строка
+basic_eventid - ид заявки на гарантию, число
+eventid - ид вида работ, число
+contractor_id - ид подрядчика, значение берётся из crm, строка
+completed - 1 - выполнено, 0 - в работе
+deadline - дата переноса выполнения работ, строка ДД.ММ.ГГГГ
+assessment - оценка выполненой заявки на гарантию, число от 1 до 5
+reason - причина отклоенения заявки

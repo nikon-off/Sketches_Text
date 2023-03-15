@@ -1,0 +1,75 @@
+{
+	"GeneralAccountName": "Николай Никонов",
+	"LastAccount": "Vk",
+	"LastAccountSrc": "data:image/svg+xml;base64, после запятой будет вставлена картинка svg в кодировке bas",
+	"TypeContact": "Клиент",
+	"Messengers": [{
+                        "AccountId": "socialMedia_Tg",
+						"LastAccountSrc": "data:image/svg+xml;base64, после запятой будет вставлена картинка svg в кодировке bas",
+                        "NumberNew": "0",
+                        "IsValid": false
+                    }, {
+                        "AccountId": "socialMedia_Vb",
+						"LastAccountSrc": "data:image/svg+xml;base64, после запятой будет вставлена картинка svg в кодировке bas",
+                        "NumberNew": "0",
+                        "IsValid": false
+                    }, {
+                        "AccountId": "socialMedia_Wp",
+						"LastAccountSrc": "data:image/svg+xml;base64, после запятой будет вставлена картинка svg в кодировке bas",
+                        "NumberNew": "0",
+                        "IsValid": false
+                    }, {
+                        "AccountId": "socialMedia_Fb",
+						"LastAccountSrc": "data:image/svg+xml;base64, после запятой будет вставлена картинка svg в кодировке bas",
+                        "NumberNew": "0",
+                        "IsValid": false
+                    }
+                ]
+	"Messages": [
+				{
+					"MessagesId": "Id сообщения, я буду его передавать из ЦРМ, но в диалоге его отображать не надо",
+					"SenderName": "Пользователь2 (по сути",
+					"TextMessage": "Вопрос2",
+					"DateMessage": "2021-02-25T06:33:50Z",
+					"Attachments":[
+									{
+										"type": "photo",
+										"name": "имя1",
+										"AttachmentsId": "id вложенного файла, буду передавать из црм"
+									},
+									{
+										"type": "video",
+										"name": "имя2",
+										"AttachmentsId": "id вложенного файла, буду передавать из црм"
+									},
+									{
+										"type": "doc",
+										"name": "имя3",
+										"AttachmentsId": "id вложенного файла, буду передавать из црм"
+									},
+									{
+										"type": "audio",
+										"name": "имя4",
+										"AttachmentsId": "id вложенного файла, буду передавать из црм"
+									},
+									],
+					"IsIncoming": true
+				},
+				{
+					"MessagesId": "Id сообщения, я буду его передавать из ЦРМ, но в диалоге его отображать не надо",
+					"SenderName": "Пользователь1",
+					"TextMessage": "Ответ1",
+					"DateMessage": "2021-02-25T06:23:50Z",
+					"Attachments":[],
+					"IsIncoming": false
+				},
+				{
+					"MessagesId": "Id сообщения, я буду его передавать из ЦРМ, но в диалоге его отображать не надо",
+					"SenderName": "Пользователь2", 
+					"TextMessage": "Вопрос1",
+					"DateMessage": "2021-02-25T06:13:50Z",
+					"Attachments":[],
+					"IsIncoming": true
+				},
+	]
+}

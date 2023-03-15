@@ -1,0 +1,29 @@
+	Строка    26:       id="activeContact"
+	Строка    31:       id="scrollAction"
+	Строка    36:       id="scrollMessages"
+	
+	Строка 31215:                   document.getElementById("activeContact").click();
+	Строка 31225:                       document.getElementById("scrollAction").click(e);
+	Строка 31385:                             (document.getElementById("searchInput").value = "");
+	Строка 34505:                                     (document.getElementById(
+	Строка 34947:           t.createRoot(document.getElementById("root")).render(	
+	
+		Строка 31166:               (document.setUnreadFromJSON = function (e, t) {
+	Строка 31183:                 (document.setContactsFromJSON = function (e) { - пока не робит
+	Строка 31189:                 (document.setContactFromJSON = function (e) { - рабочий вариант, передавай по одному контакту 
+	Строка 31195:                 (document.setClientContactsFromJSON = function (e) {
+	Строка 31201:                 (document.setSearchContactsFromJSON = function (e) {
+	Строка 31207:                 (document.setAllContactsFromJSON = function (e) {
+	Строка 31217:                 (document.setSocialMediaFromJSON = function () {
+	Строка 31748:                 (document.setFileFromJSON = function () {
+	Строка 34307:               (document.setSendedTextFromJSON = function () {
+	Строка 34326:                 (document.setTextFromJSON = function (e, n, i, u, c, s) { - использую  при отправке сообщения при нажатии на sendButton, а также при получении нового сообщения от внешнего контакта, при условии, что я с ним общаюсь
+	Строка 34347:                 (document.setMessagesFromJSON = function (e) {
+	Строка 34353:                 (document.setHistoryFromJSON = function (e) {
+	Строка 34356:                 (document.setFilesFromJSON = function (e) {
+	
+	Строка 31180:                 (document.handleContactData = function (e) {
+	Строка 34599:                 (document.handleStartDate = function () {
+	Строка 34602:                 (document.handleEndDate = function () {
+	Строка 34605:                 (document.handleDate = function () {
+	Строка 34910:             (document.handleId = function () {

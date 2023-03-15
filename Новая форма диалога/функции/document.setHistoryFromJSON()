@@ -1,0 +1,28 @@
+{
+    "Чтобы изменить историю сообщений в зависимости "
+}{
+    "от соц.сети, нужно при нажатии на соц.сеть вызывать"
+}{
+    "функцию document.setHistoryFromJSON(), в параметры "
+}{
+    "которой ты будешь передавать историю[массив] сообщений. Например:"
+}{
+    "document.setHistoryFromJSON("
+}
+
+[{
+        "id": "3b151445-a087-11ed-84db-0025903468f5",
+        "TextMessage": "Тпап",
+        "Media": [],
+        "DateMessage": "30.01.2023 13:17:00",
+        "IsIncoming": true,
+        "isRead": "sent"
+    }, {
+        "id": "6cf9b446-9b98-11ed-84db-0025903468f5",
+        "TextMessage": "Ольга2",
+        "Media": [],
+        "DateMessage": "24.01.2023 6:37:29",
+        "IsIncoming": false,
+        "isRead": "sent"
+    }
+]
