@@ -1,0 +1,322 @@
+На данной странице описаны доступы к серверам и базам .
+
+новый пароль: Dy8so#_$2ja
+
+старый пароль:  sY4_vun@exix
+
+наш тестовый FTP
+
+ftp://94.26.226.3
+
+логин: 4dtest пароль: 1JR2K97RHR
+
+Клиент
+
+Подключение
+
+Ссылка на базу
+Энко
+
+подключение через cisco anyconnect, описано в файле.
+
+
+ Документ
+
+Ссылка для скачивания cisco https://disk.yandex.ru/d/jUy3Mn1wYjx1Hw
+
+Далее терминальное подключение к адресу 
+
+
+
+hq-rdp:3300 https://disk.yandex.ru/d/BqDHX1MLmJ5kFQ
+
+Учетные данные:
+
+corp\NikonovNU
+mhPgZ8N2tD3K 
+
+corp\4dev
+
+3gXy86sWprxE
+
+Папка \\hq-rdp\Users\4dev\Desktop\4dev доступна для обмена файлами с вашего компьютера при подключенном CiscoAnyConnect. При попытке открыть указанный путь будет запрошен логин пароль - ввести ваши учетные данные. Логин вводится в формате corp\ваш_логин.
+
+Вторая учетка для RDP:
+
+corp\4_dev 
+
+qSZBCCuc7NPx
+
+Основная база: 
+
+https://crm.enco72.ru/crm4dev
+
+пароль: WA9loxeq
+
+Тестовая база: 
+
+Srvr="hq-1c-test3";Ref="crm_test_4dev";
+Srvr="hq-1c-test3";Ref="crm_test_4dev";
+Srvr="HQ-1C-TEST3";Ref="crm_test_actual";
+Srvr="hq-1c-test3";Ref="CRM_TEST_API";
+Srvr="hq-1c-test3";Ref="crm_test_update";
+Srvr="hq-1c-test3";Ref="CRM_test_api";
+Srvr="SB-1C-CRM";Ref="crm4dev";
+Srvr="hq-1c-test2";Ref="crm_test_obn";
+Srvr="hq-1c-test3";Ref="crm_test_elvira2";
+Srvr="hq-1c-crm2";Ref="crm4dev";
+
+
+
+
+
+
+
+4Д
+
+терминальное подключение к адресу
+
+92.255.164.220:14002
+
+Учетные данные: 
+
+4D\4DEV
+
+EPiXe8k4eKvFUcs44ecd
+
+Отладка по HTTP
+
+Доступ с ВМ в папку с сертификатами
+
+4DEV_Files
+
+pLpax7nRm!*@x#b3SU#yqE
+
+Основная база: 
+
+https://crm.4d.life/CRM4DEV/ru_RU/
+
+Тестовая база:
+
+Srvr="192.168.100.2";Ref="CRM4DEV_Test2";
+
+
+
+ТИС
+
+терминальное подключение с нашего RDP! к адресу
+
+RDP 178.46.152.50:42255
+
+hq-crm ip 192.168.111.101
+
+CRM-support@tis.local пароль KD8bzT7o
+
+SQL
+
+база должна Обязательно находится в папке D:\DataBase 
+пароль SA User100!
+
+Основная база: 
+
+https://crm.gk-tis.ru
+
+Тестовая база:
+
+Srvr="HQ-CRM";Ref="crm4dev_copy";
+
+https://tis.4dev.app/tiscrm
+
+291078
+
+
+
+РентСити(Флэт)
+
+терминальное подключение с нашего RDP! к адресу
+
+178.205.249.60:20522
+
+
+
+Учетные данные: 
+
+newbild
+
+FYD$$36dby!!
+
+https://newbild.anflat.ru/CRM4Dev
+
+тестовая база:
+
+srv="newbild" ref="basenew"
+
+Веста
+
+80.91.16.176:4869 
+
+zsis\programmist_01 
+
+пароль 158851Rt 
+
+http://80.91.16.176/4dev/ru_RU/
+Звезда
+
+VPN 178.46.154.64
+
+логин:anton 
+
+пароль:IORl5mZ09Y 
+
+
+
+терминальное подключение
+
+RDP 192.168.88.184
+
+логин:start\4dev
+
+
+пароль:htaCm1v0
+
+http://178.46.154.64:53390/updk
+ПСК
+
+VPN 89.250.148.216
+
+Логин: vpn-4dev
+
+Пароль: NjqmvE3xc5
+
+
+
+IPSec ключ безопасности: pskdom-vpn            !!! Внимание протокол не стандартный
+
+
+
+Протокол MS-CHAP  v2   если в  винде то указываешь что шифрование не обязательно
+
+ адрес для поделючения тот же: 
+
+ route add 192.168.1.9 mask 255.255.255.255 10.189.166.1 !!! 
+
+
+
+терминальное подключение (server-updk:) к адресу
+
+192.168.1.9   
+
+Учетные данные: 
+
+corp.72dom.com\alexandr.krasilnikov
+
+NjqmvE3xc5 
+
+Инструкция, если не получилось: https://disk.yandex.ru/i/RMG6Hr4KdpPrBg
+
+
+
+http://89.250.148.216:8888/crm4devpwd/ru_RU/
+Астра
+
+VPN
+
+176.215.1.81 (Тип: PPtP)
+
+astra\crm 
+
+As123456789 
+
+терминальное подключение к адресу
+
+
+
+192.168.1.71
+
+
+
+Учетные данные: 
+
+
+
+astra\crm
+
+As123456789
+
+Основная база жк титов:
+
+http://46.48.117.93:4411/4dev
+
+API публикация
+
+http://46.48.117.93:4411/nopwd/
+
+Основная Астра:
+
+https://astra.4dev.app
+
+
+
+
+
+Единение
+
+терминальное подключение к адресу
+
+s1site.rht.su:4899 
+
+Учетные данные: 
+
+edinenie\user4dev 
+
+#din!704058
+
+
+
+https://crm4.edinenie-tlt.ru/CRM4DEV
+Мета
+
+Сервер ДО: 
+
+77.72.132.20:3389
+
+Логин: 4dev
+
+Пароль: NlZnqqyJfLw0
+
+----------------------
+
+в 1С ГорбуновДС  Fe1bobor
+
+
+
+Основная база: 
+
+https://meta.4dev.app/meta/ru/
+
+API
+
+https://meta.4dev.app/metaapi
+
+МИК	
+терминальное подключение к адресу: 
+
+85.95.183.68
+
+Учетные данные:
+
+4Dev
+
+Renovation22!
+
+
+B-72	
+база документооборота
+
+Логин: Администратор
+
+Пароль: tY7fakez
+
+Основная база:
+
+https://doc.b-72.ru/DO/ru/

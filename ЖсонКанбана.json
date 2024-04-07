@@ -1,0 +1,67 @@
+{
+    "list_mode": false,
+    "sales_funnel_id": "65cf5323-258c-11e9-a203-00155d000217",
+    "Page": 1,
+    "PageSize": 10,
+    "users_id": [
+        "3a52611e-6b1d-11e8-836c-1cb72cafa0f8"
+    ],
+    "date_sort": "УБЫВ", события
+    "sort_by_deal_date": false
+}
+
+{
+    "list_mode": false,
+    "sales_funnel_id": "65cf5323-258c-11e9-a203-00155d000217",
+    "Page": 1,
+    "PageSize": 10,
+    "date_from": "2024-03-01",
+    "date_to": "2024-03-31",
+    "date_sort": "УБЫВ", события
+    "sort_by_deal_date": false
+}
+
+{
+    "list_mode": false,
+    "sales_funnel_id": "65cf5323-258c-11e9-a203-00155d000217",
+    "Page": 1,
+    "PageSize": 10,
+    "date_from": "2024-03-01",
+    "date_to": "2024-03-31",
+    "date_sort": "ВОЗР", события
+    "sort_by_deal_date": false
+}
+
+{
+    "list_mode": false,
+    "sales_funnel_id": "65cf5323-258c-11e9-a203-00155d000217",
+    "Page": 1,
+    "PageSize": 10,
+    "date_from": "2024-03-01",
+    "date_to": "2024-03-31",
+    "date_sort": "УБЫВ", сделка
+    "sort_by_deal_date": true
+}
+
+{
+    "list_mode": false,
+    "sales_funnel_id": "65cf5323-258c-11e9-a203-00155d000217",
+    "Page": 1,
+    "PageSize": 10,
+    "date_from": "2024-03-01",
+    "date_to": "2024-03-31",
+    "date_sort": "ВОЗР", сделка
+    "sort_by_deal_date": true
+}
+
+{
+    "list_mode": false,
+    "sales_funnel_id": "65cf5323-258c-11e9-a203-00155d000217",
+    "Page": 1,
+    "PageSize": 10,
+    "event_timeline_filter": "1",
+    "date_from": "2024-03-01",
+    "date_to": "2024-03-31",
+    "date_sort": "ВОЗР",
+    "sort_by_deal_date": true
+}

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://v8.1c.ru/v8/tech-log">
+ <dump create="false"/>
+ <log location="D:\log\" history="72">
+  <event>
+   <eq property="name" value="tdeadlock"/>
+   <eq property="p:processname" value="crm4dev"/>
+  </event>
+  <event>
+   <eq property="name" value="tlock"/>
+   <eq property="p:processname" value="crm4dev"/>
+   <ne property="waitconnections" value=""/>
+  </event>
+  <event>
+   <eq property="name" value="ttimeout"/>
+   <eq property="p:processname" value="crm4dev"/>
+  </event>
+  <property name="all"/>
+ </log>
+</config> dbpostgrs

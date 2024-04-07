@@ -1,0 +1,16 @@
+Дев_КлючКБазе
+kanban
+c65f8d65-d504-4d02-b97b-c0665d226a0d
+c582765f-8218-43a5-a13a-305e0975f289
+
+6fa5ae94-f9bd-4aab-acd3-7924340c963f
+https://app.4dev.app/kanban?host=https://prog2.4dev.app&baseUrl=/api/hs/restapi_v1/kanban//?host=https://prog2.4dev.app&baseUrl=/api/hs/restapi_v1/kanban/
+
+https://app.4dev.app/kanban?host=https://prog2.4dev.app&baseUrl=/api/hs/restapi_v1/kanban/
+https://app.4dev.app/kanban/?host=https://prog2.4dev.app&baseUrl=/api/hs/restapi_v1/kanban/
+https://app.4dev.app/kanban?host=https://prog2.4dev.app&baseUrl=/api/hs/restapi_v1/kanban//?host=https://prog2.4dev.app&baseUrl=/api/hs/restapi_v1/kanban/
+https://app.4dev.app/kanban/?host=https://prog2.4dev.app&baseUrl=/api/hs/restapi_v1/kanban/&token=fc1932dc-70db-466a-a645-44de41667254
+
+Для апи смс4б завести отдельный регистр, в который буут записываться сообщения
+
+Расш1_Дев_смсСостоянияСообщений

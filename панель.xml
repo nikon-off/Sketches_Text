@@ -1,0 +1,556 @@
+Похоже, что с этим XML-файлом не связана какая-либо информация о стиле. Дерево документа показано ниже.
+<realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06">
+    <дата генерации>2024-03-29T18:50:58+05:00</дата генерации>
+<предложение internal-id="663c582c-19e1-11eb-8171-ac220bcde635">
+        <type>продажа</type>
+        <property-type>жилая</property-type>
+        <category>квартира</category>
+        <дата создания>2024-03-29T18:50:58+05:00</дата создания>
+<дата последнего обновления>2024-03-29T18:50:58+05:00</дата последнего обновления>
+<местоположение>
+<country>Россия</country>
+<region>Тюменская область</region>
+<название населенного пункта/>
+<district>Тюмень</district>
+<address>Ю.-Р.Г. Эрвье, 34к1</address>
+</местоположение>
+<торговый агент>
+<телефон>8(3452)68-55-22</phone>
+<organization>ООО «Специализированный Застройщик «ВЕСТА-девелопмент»</organization>
+<category>застройщик</category>
+</торговыйагент>
+<deal-status>продажа от застройщика</deal-status>
+<цена>
+<значение>6015000</значение>
+<валюта>Рубль</currency>
+</цена>
+<изображение tag="план">http://80.91.16.176/crm/imagePlanc50727ff-eb71-11eb-8421-3440b588c827.png</image>
+        <изображение tag="3d план">http://80.91.16.176/crm/imagePlanf539dd2c-0cb7-11ed-842c-3440b588c827.png</image>
+        <изображение>http://80.91.16.176/crm/imagePlanc5072800-eb71-11eb-8421-3440b588c827.png</image>
+        <изображение>http://80.91.16.176/crm/imageR5fc37cf9-3e00-11eb-bfce-3440b588c827.jpg</image>
+        <изображение>http://80.91.16.176/crm/imageR6728fcf2-3e00-11eb-bfce-3440b588c827.jpg</image>
+        <изображение>http://80.91.16.176/crm/imageR74aa3660-3e00-11eb-bfce-3440b588c827.jpg</image>
+        <изображение>http://80.91.16.176/crm/imageR6728fcf3-3e00-11eb-bfce-3440b588c827.jpg</image>
+        <изображение>http://80.91.16.176/crm/imageR6ea14213-3e00-11eb-bfce-3440b588c827.jpg</image>
+        <изображение>http://80.91.16.176/crm/imageR6ea14214-3e00-11eb-bfce-3440b588c827.jpg</image>
+        <изображение>http://80.91.16.176/crm/imageR6ea14215-3e00-11eb-bfce-3440b588c827.jpg</image>
+        <изображение>http://80.91.16.176/crm/imageR6ea14216-3e00-11eb-bfce-3440b588c827.jpg</image>
+        <изображение>http://80.91.16.176/crm/imageR74aa365f-3e00-11eb-bfce-3440b588c827.jpg</image>
+        <изображение>http://80.91.16.176/crm/imageR5fc37cf8-3e00-11eb-bfce-3440b588c827.jpg</image>
+        <изображение>http://80.91.16.176/crm/imageR5fc37cfa-3e00-11eb-bfce-3440b588c827.jpg</image>
+        <изображение>http://80.91.16.176/crm/imageR5fc37cfb-3e00-11eb-bfce-3440b588c827.jpg</image>
+        <изображение>http://80.91.16.176/crm/imageR6728fcf0-3e00-11eb-bfce-3440b588c827.jpg</image>
+        <изображение>http://80.91.16.176/crm/imageR6728fcf1-3e00-11eb-bfce-3440b588c827.jpg</image>
+        <площадь>
+            <значение>42,97</значение>
+            <unit>кв. м</unit>
+        </область>
+        <description>Набережный квартал, ГП4, Подъезд 1, Этаж № 19, Номер на этаже №4, квартира № 106</description>
+        <новаяквартира>1</новаяквартира>
+        <этаж>19</floor>
+        <комнаты>2</rooms>
+        <всегоэтажей>19</всегоэтажей>
+        <building-name>Набережный квартал</building-name>
+        <yandex-building-id>2144690</yandex-building-id>
+        <состояниездания>передача</состояниездания>
+        <год постройки>2022</год постройки>
+<готовыйквартал>4</готовыйквартал>
+<building-type>монолит</building-type>
+</предложение>
+<предложение internal-id="663c5833-19e1-11eb-8171-ac220bcde635">
+            <type>продажа</type>
+            <property-type>жилая</property-type>
+            <category>квартира</category>
+            <creation-date>2024-03-29T18:50:58+05:00</creation-date>
+            <last-update-date>2024-03-29T18:50:58+05:00</last-update-date>
+            <location>
+                <country>Россия</country>
+                <region>Тюменская область</region>
+                <locality-name/>
+                <district>Тюмень</district>
+                <address>Ю.-Р.Г. Эрвье, 34к1</address>
+            </location>
+            <sales-agent>
+                <phone>8(3452)68-55-22</phone>
+                <organization>ООО «Специализированный Застройщик «ВЕСТА-девелопмент»</organization>
+                <category>застройщик</category>
+            </sales-agent>
+            <deal-status>продажа от застройщика</deal-status>
+            <price>
+                <value>9350000</value>
+                <currency>RUR</currency>
+            </price>
+            <image tag="plan">http://80.91.16.176/crm/imagePlan7b72cb28-eb73-11eb-8421-3440b588c827.png</image>
+            <image tag="3d plan">http://80.91.16.176/crm/imagePlanbe38af4e-d5c3-11ec-842b-3440b588c827.png</image>
+            <image>http://80.91.16.176/crm/imagePlan7b72cb29-eb73-11eb-8421-3440b588c827.png</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cf9-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf2-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR74aa3660-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf3-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14213-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14214-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14215-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14216-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR74aa365f-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cf8-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cfa-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cfb-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf0-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf1-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <area>
+                <value>77,73</value>
+                <unit>кв. м</unit>
+            </area>
+            <description>Набережный квартал, ГП4, Подъезд 1, Этаж № 19, Номер на этаже №5, квартира № 107</description>
+            <new-flat>1</new-flat>
+            <floor>19</floor>
+            <rooms>3</rooms>
+            <floors-total>19</floors-total>
+            <building-name>Набережный квартал</building-name>
+            <yandex-building-id>2144690</yandex-building-id>
+            <building-state>hand-over</building-state>
+            <built-year>2022</built-year>
+            <ready-quarter>4</ready-quarter>
+            <building-type>монолит</building-type>
+        </offer>
+        <offer internal-id="03b2bcfc-19e6-11eb-8171-ac220bcde635">
+            <type>продажа</type>
+            <property-type>жилая</property-type>
+            <category>квартира</category>
+            <creation-date>2024-03-29T18:50:58+05:00</creation-date>
+            <last-update-date>2024-03-29T18:50:58+05:00</last-update-date>
+            <location>
+                <country>Россия</country>
+                <region>Тюменская область</region>
+                <locality-name/>
+                <district>Тюмень</district>
+                <address>Ю.-Р.Г. Эрвье, 34к1</address>
+            </location>
+            <sales-agent>
+                <phone>8(3452)68-55-22</phone>
+                <organization>ООО «Специализированный Застройщик «ВЕСТА-девелопмент»</organization>
+                <category>застройщик</category>
+            </sales-agent>
+            <deal-status>продажа от застройщика</deal-status>
+            <price>
+                <value>6015000</value>
+                <currency>RUR</currency>
+            </price>
+            <image tag="plan">http://80.91.16.176/crm/imagePlan8550926f-eade-11eb-8421-3440b588c827.png</image>
+            <image tag="3d plan">http://80.91.16.176/crm/imagePlan99a6d269-0cc7-11ed-842c-3440b588c827.png</image>
+            <image>http://80.91.16.176/crm/imagePlan85509270-eade-11eb-8421-3440b588c827.png</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cf9-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf2-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR74aa3660-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf3-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14213-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14214-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14215-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14216-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR74aa365f-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cf8-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cfa-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cfb-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf0-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf1-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <area>
+                <value>42,97</value>
+                <unit>кв. м</unit>
+            </area>
+            <description>Набережный квартал, ГП4, Подъезд 2, Этаж № 19, Номер на этаже №3, квартира № 213</description>
+            <new-flat>1</new-flat>
+            <floor>19</floor>
+            <rooms>2</rooms>
+            <floors-total>19</floors-total>
+            <building-name>Набережный квартал</building-name>
+            <yandex-building-id>2144690</yandex-building-id>
+            <building-state>hand-over</building-state>
+            <built-year>2022</built-year>
+            <ready-quarter>4</ready-quarter>
+            <building-type>монолит</building-type>
+        </offer>
+        <offer internal-id="03b2bcfd-19e6-11eb-8171-ac220bcde635">
+            <type>продажа</type>
+            <property-type>жилая</property-type>
+            <category>квартира</category>
+            <creation-date>2024-03-29T18:50:58+05:00</creation-date>
+            <last-update-date>2024-03-29T18:50:58+05:00</last-update-date>
+            <location>
+                <country>Россия</country>
+                <region>Тюменская область</region>
+                <locality-name/>
+                <district>Тюмень</district>
+                <address>Ю.-Р.Г. Эрвье, 34к1</address>
+            </location>
+            <sales-agent>
+                <phone>8(3452)68-55-22</phone>
+                <organization>ООО «Специализированный Застройщик «ВЕСТА-девелопмент»</organization>
+                <category>застройщик</category>
+            </sales-agent>
+            <deal-status>продажа от застройщика</deal-status>
+            <price>
+                <value>6000000</value>
+                <currency>RUR</currency>
+            </price>
+            <image tag="plan">http://80.91.16.176/crm/imagePlan8550926f-eade-11eb-8421-3440b588c827.png</image>
+            <image tag="3d plan">http://80.91.16.176/crm/imagePlan99a6d269-0cc7-11ed-842c-3440b588c827.png</image>
+            <image>http://80.91.16.176/crm/imagePlan85509270-eade-11eb-8421-3440b588c827.png</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cf9-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf2-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR74aa3660-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf3-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14213-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14214-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14215-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14216-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR74aa365f-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cf8-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cfa-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cfb-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf0-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf1-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <area>
+                <value>42,97</value>
+                <unit>кв. м</unit>
+            </area>
+            <description>Набережный квартал, ГП4, Подъезд 2, Этаж № 18, Номер на этаже №3, квартира № 207</description>
+            <new-flat>1</new-flat>
+            <floor>18</floor>
+            <rooms>2</rooms>
+            <floors-total>19</floors-total>
+            <building-name>Набережный квартал</building-name>
+            <yandex-building-id>2144690</yandex-building-id>
+            <building-state>hand-over</building-state>
+            <built-year>2022</built-year>
+            <ready-quarter>4</ready-quarter>
+            <building-type>монолит</building-type>
+        </offer>
+        <offer internal-id="03b2bcfe-19e6-11eb-8171-ac220bcde635">
+            <type>продажа</type>
+            <property-type>жилая</property-type>
+            <category>квартира</category>
+            <creation-date>2024-03-29T18:50:58+05:00</creation-date>
+            <last-update-date>2024-03-29T18:50:58+05:00</last-update-date>
+            <location>
+                <country>Россия</country>
+                <region>Тюменская область</region>
+                <locality-name/>
+                <district>Тюмень</district>
+                <address>Ю.-Р.Г. Эрвье, 34к1</address>
+            </location>
+            <sales-agent>
+                <phone>8(3452)68-55-22</phone>
+                <organization>ООО «Специализированный Застройщик «ВЕСТА-девелопмент»</organization>
+                <category>застройщик</category>
+            </sales-agent>
+            <deal-status>продажа от застройщика</deal-status>
+            <price>
+                <value>5990000</value>
+                <currency>RUR</currency>
+            </price>
+            <image tag="plan">http://80.91.16.176/crm/imagePlan8550926f-eade-11eb-8421-3440b588c827.png</image>
+            <image tag="3d plan">http://80.91.16.176/crm/imagePlan99a6d269-0cc7-11ed-842c-3440b588c827.png</image>
+            <image>http://80.91.16.176/crm/imagePlan85509270-eade-11eb-8421-3440b588c827.png</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cf9-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf2-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR74aa3660-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf3-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14213-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14214-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14215-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14216-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR74aa365f-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cf8-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cfa-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cfb-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf0-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf1-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <area>
+                <value>42,97</value>
+                <unit>кв. м</unit>
+            </area>
+            <description>Набережный квартал, ГП4, Подъезд 2, Этаж № 17, Номер на этаже №3, квартира № 201</description>
+            <new-flat>1</new-flat>
+            <floor>17</floor>
+            <rooms>2</rooms>
+            <floors-total>19</floors-total>
+            <building-name>Набережный квартал</building-name>
+            <yandex-building-id>2144690</yandex-building-id>
+            <building-state>hand-over</building-state>
+            <built-year>2022</built-year>
+            <ready-quarter>4</ready-quarter>
+            <building-type>монолит</building-type>
+        </offer>
+        <offer internal-id="03b2bcff-19e6-11eb-8171-ac220bcde635">
+            <type>продажа</type>
+            <property-type>жилая</property-type>
+            <category>квартира</category>
+            <creation-date>2024-03-29T18:50:58+05:00</creation-date>
+            <last-update-date>2024-03-29T18:50:58+05:00</last-update-date>
+            <location>
+                <country>Россия</country>
+                <region>Тюменская область</region>
+                <locality-name/>
+                <district>Тюмень</district>
+                <address>Ю.-Р.Г. Эрвье, 34к1</address>
+            </location>
+            <sales-agent>
+                <phone>8(3452)68-55-22</phone>
+                <organization>ООО «Специализированный Застройщик «ВЕСТА-девелопмент»</organization>
+                <category>застройщик</category>
+            </sales-agent>
+            <deal-status>продажа от застройщика</deal-status>
+            <price>
+                <value>5990000</value>
+                <currency>RUR</currency>
+            </price>
+            <image tag="plan">http://80.91.16.176/crm/imagePlan8550926f-eade-11eb-8421-3440b588c827.png</image>
+            <image tag="3d plan">http://80.91.16.176/crm/imagePlan99a6d269-0cc7-11ed-842c-3440b588c827.png</image>
+            <image>http://80.91.16.176/crm/imagePlan85509270-eade-11eb-8421-3440b588c827.png</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cf9-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf2-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR74aa3660-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf3-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14213-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14214-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14215-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14216-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR74aa365f-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cf8-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cfa-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cfb-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf0-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf1-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <area>
+                <value>42,97</value>
+                <unit>кв. м</unit>
+            </area>
+            <description>Набережный квартал, ГП4, Подъезд 2, Этаж № 16, Номер на этаже №3, квартира № 195</description>
+            <new-flat>1</new-flat>
+            <floor>16</floor>
+            <rooms>2</rooms>
+            <floors-total>19</floors-total>
+            <building-name>Набережный квартал</building-name>
+            <yandex-building-id>2144690</yandex-building-id>
+            <building-state>hand-over</building-state>
+            <built-year>2022</built-year>
+            <ready-quarter>4</ready-quarter>
+            <building-type>монолит</building-type>
+        </offer>
+        <offer internal-id="03b2bd0b-19e6-11eb-8171-ac220bcde635">
+            <type>продажа</type>
+            <property-type>жилая</property-type>
+            <category>квартира</category>
+            <creation-date>2024-03-29T18:50:58+05:00</creation-date>
+            <last-update-date>2024-03-29T18:50:58+05:00</last-update-date>
+            <location>
+                <country>Россия</country>
+                <region>Тюменская область</region>
+                <locality-name/>
+                <district>Тюмень</district>
+                <address>Ю.-Р.Г. Эрвье, 34к1</address>
+            </location>
+            <sales-agent>
+                <phone>8(3452)68-55-22</phone>
+                <organization>ООО «Специализированный Застройщик «ВЕСТА-девелопмент»</organization>
+                <category>застройщик</category>
+            </sales-agent>
+            <deal-status>продажа от застройщика</deal-status>
+            <price>
+                <value>6020000</value>
+                <currency>RUR</currency>
+            </price>
+            <image tag="plan">http://80.91.16.176/crm/imagePlan9fe1e32e-eab9-11eb-8421-3440b588c827.png</image>
+            <image tag="3d plan">http://80.91.16.176/crm/imagePlanad12a5e6-0cc4-11ed-842c-3440b588c827.png</image>
+            <image>http://80.91.16.176/crm/imagePlan9fe1e32f-eab9-11eb-8421-3440b588c827.png</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cf9-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf2-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR74aa3660-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf3-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14213-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14214-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14215-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14216-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR74aa365f-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cf8-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cfa-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cfb-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf0-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf1-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <area>
+                <value>43,2</value>
+                <unit>кв. м</unit>
+            </area>
+            <description>Набережный квартал, ГП4, Подъезд 2, Этаж № 16, Номер на этаже №5, квартира № 197</description>
+            <new-flat>1</new-flat>
+            <floor>16</floor>
+            <rooms>2</rooms>
+            <floors-total>19</floors-total>
+            <building-name>Набережный квартал</building-name>
+            <yandex-building-id>2144690</yandex-building-id>
+            <building-state>hand-over</building-state>
+            <built-year>2022</built-year>
+            <ready-quarter>4</ready-quarter>
+            <building-type>монолит</building-type>
+        </offer>
+        <offer internal-id="d0814ad3-1a6a-11eb-8171-ac220bcde635">
+            <type>продажа</type>
+            <category>коммерческая</category>
+            <commercial-type>free purpose</commercial-type>
+            <creation-date>2024-03-29T18:50:58+05:00</creation-date>
+            <last-update-date>2024-03-29T18:50:58+05:00</last-update-date>
+            <location>
+                <country>Россия</country>
+                <region>Тюменская область</region>
+                <locality-name/>
+                <district>Тюмень</district>
+                <address>Ю.-Р.Г. Эрвье, 34к1</address>
+            </location>
+            <sales-agent>
+                <phone>8(3452)68-55-22</phone>
+                <organization>ООО «Специализированный Застройщик «ВЕСТА-девелопмент»</organization>
+                <category>застройщик</category>
+            </sales-agent>
+            <price>
+                <value>7900000</value>
+                <currency>RUR</currency>
+            </price>
+            <image tag="plan">http://80.91.16.176/crm/imagePland0814ae1-1a6a-11eb-8171-ac220bcde635.png</image>
+            <image>http://80.91.16.176/crm/imagePlan8e039fb9-1d8f-11eb-8172-ac220bcde635.png</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cf9-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf2-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR74aa3660-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf3-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14213-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14214-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14215-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14216-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR74aa365f-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cf8-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cfa-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cfb-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf0-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf1-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <area>
+                <value>47,17</value>
+                <unit>кв. м</unit>
+            </area>
+            <description> Набережный квартал, ГП4, 1, 5, квартира №Офис 7</description>
+            <floor>1</floor>
+            <floors-total>19</floors-total>
+            <building-name>Набережный квартал</building-name>
+            <yandex-building-id>2144690</yandex-building-id>
+            <building-state>hand-over</building-state>
+            <built-year>2022</built-year>
+            <ready-quarter>4</ready-quarter>
+            <building-type>монолит</building-type>
+        </offer>
+        <offer internal-id="b553f827-f8e0-11ed-8435-3440b588c827">
+            <type>продажа</type>
+            <property-type>жилая</property-type>
+            <category>квартира</category>
+            <creation-date>2024-03-29T18:50:58+05:00</creation-date>
+            <last-update-date>2024-03-29T18:50:58+05:00</last-update-date>
+            <location>
+                <country>Россия</country>
+                <region/>
+                <locality-name/>
+                <district/>
+                <address/>
+            </location>
+            <sales-agent>
+                <phone>8(3452)68-55-22</phone>
+                <organization>ООО «Специализированный Застройщик «ВЕСТА-девелопмент»</organization>
+                <category>застройщик</category>
+            </sales-agent>
+            <deal-status>продажа от застройщика</deal-status>
+            <price>
+                <value>6360000</value>
+                <currency>RUR</currency>
+            </price>
+            <image tag="plan">http://80.91.16.176/crm/imagePlan2c3789d0-e0a0-11eb-8421-3440b588c827.png</image>
+            <image tag="3d plan">http://80.91.16.176/crm/imagePlane36138a2-0cb3-11ed-842c-3440b588c827.png</image>
+            <image>http://80.91.16.176/crm/imagePlan674e470f-eaa9-11eb-8421-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cf9-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf2-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR74aa3660-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf3-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14213-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14214-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14215-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14216-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR74aa365f-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cf8-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cfa-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cfb-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf0-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf1-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <area>
+                <value>46,93</value>
+                <unit>кв. м</unit>
+            </area>
+            <description>Набережный квартал, ГП3, Подъезд 1, Этаж № 12, Номер на этаже №1, квартира № 61</description>
+            <new-flat>1</new-flat>
+            <floor>12</floor>
+            <rooms>2</rooms>
+            <floors-total>19</floors-total>
+            <building-name>Набережный квартал</building-name>
+            <yandex-building-id>2144690</yandex-building-id>
+            <building-state>unfinished</building-state>
+            <built-year>2026</built-year>
+            <ready-quarter>1</ready-quarter>
+            <building-type/>
+        </offer>
+        <offer internal-id="b926a6b1-f8e0-11ed-8435-3440b588c827">
+            <type>продажа</type>
+            <category>коммерческая</category>
+            <commercial-type>free purpose</commercial-type>
+            <creation-date>2024-03-29T18:50:58+05:00</creation-date>
+            <last-update-date>2024-03-29T18:50:58+05:00</last-update-date>
+            <location>
+                <country>Россия</country>
+                <region/>
+                <locality-name/>
+                <district/>
+                <address/>
+            </location>
+            <sales-agent>
+                <phone>8(3452)68-55-22</phone>
+                <organization>ООО «Специализированный Застройщик «ВЕСТА-девелопмент»</organization>
+                <category>застройщик</category>
+            </sales-agent>
+            <price>
+                <value/>
+                <currency>RUR</currency>
+            </price>
+            <image tag="plan">http://80.91.16.176/crm/imagePlan8e039fd3-1d8f-11eb-8172-ac220bcde635.png</image>
+            <image>http://80.91.16.176/crm/imagePlan8e039fb3-1d8f-11eb-8172-ac220bcde635.png</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cf9-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf2-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR74aa3660-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf3-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14213-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14214-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14215-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6ea14216-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR74aa365f-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cf8-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cfa-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR5fc37cfb-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf0-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <image>http://80.91.16.176/crm/imageR6728fcf1-3e00-11eb-bfce-3440b588c827.jpg</image>
+            <area>
+                <value>0</value>
+                <unit>кв. м</unit>
+            </area>
+            <description> Набережный квартал, ГП3, 1, 4, квартира №Офис 3</description>
+            <floor>1</floor>
+            <floors-total>19</floors-total>
+            <building-name>Набережный квартал</building-name>
+            <yandex-building-id>2144690</yandex-building-id>
+            <building-state>unfinished</building-state>
+            <built-year>2026</built-year>
+            <ready-quarter>1</ready-quarter>
+            <building-type/>
+        </offer>
+    </realty-feed>
