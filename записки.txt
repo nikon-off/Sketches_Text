@@ -14,3 +14,8 @@ https://app.4dev.app/kanban/?host=https://prog2.4dev.app&baseUrl=/api/hs/restapi
 Для апи смс4б завести отдельный регистр, в который буут записываться сообщения
 
 Расш1_Дев_смсСостоянияСообщений
+
+https://srv-1c-crm.corp.enco72.ru/test_kanban/?host=https://https://hq-1c-test3.corp.enco72.ru/&baseUrl=/crm_stage/hs/restapi_v1/kanban/
+
+/ipoteka/application/api/v1/products
+/ipoteka/application/api/v1/products
