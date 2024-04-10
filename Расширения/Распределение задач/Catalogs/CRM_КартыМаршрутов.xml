@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Catalog uuid="9438b940-0a39-46a9-b612-191e01e98efb">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.CRM_КартыМаршрутов" category="Object">
+				<xr:TypeId>078da7c8-4aa2-47f5-bac6-c35ba553da11</xr:TypeId>
+				<xr:ValueId>7a88a797-a8c8-48d3-b0e6-422462cd1651</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.CRM_КартыМаршрутов" category="Ref">
+				<xr:TypeId>6723b4e6-cba3-4188-874f-9fbc174b1086</xr:TypeId>
+				<xr:ValueId>27bb906c-c1b3-48ab-a3c7-edba6a15f26e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.CRM_КартыМаршрутов" category="Selection">
+				<xr:TypeId>1187f42e-4005-476d-8d8a-e1846f10f3ac</xr:TypeId>
+				<xr:ValueId>98294af3-933c-423b-97a5-475455dbfa28</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.CRM_КартыМаршрутов" category="List">
+				<xr:TypeId>9b86e6b0-69db-4b01-b9d0-f69bb34602ae</xr:TypeId>
+				<xr:ValueId>a45d87c9-b5bb-4f59-81bc-2765ca64719f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.CRM_КартыМаршрутов" category="Manager">
+				<xr:TypeId>dd80ec22-2438-4480-9728-7b082e118d9e</xr:TypeId>
+				<xr:ValueId>b85b7576-1bc7-4329-b973-67c932a2e54a</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>CRM_КартыМаршрутов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>074218f1-e573-4a01-8677-ff7a49c53580</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

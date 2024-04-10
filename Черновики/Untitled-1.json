@@ -1,0 +1,10 @@
+{
+    "errors": [
+        {
+            "code": 1012,
+            "message": "Required request body is missing: public ru.sberned.openapi2.dto.response.DataResponse<ru.sberned.openapi2.dto.response.CasUserResponseDto> ru.sberned.openapi2.controller.ClientController.create(ru.sberned.openapi2.dto.CasUserCreateDto,javax.servlet.http.HttpServletRequest)"
+        }
+    ],
+    "success": false,
+    "requestId": "2254e00b-544e-43ef-b1e7-01ceb8ba42b1"
+}

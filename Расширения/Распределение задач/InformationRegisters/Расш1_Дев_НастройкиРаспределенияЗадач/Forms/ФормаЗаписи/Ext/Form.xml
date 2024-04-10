@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Form xmlns="http://v8.1c.ru/8.3/xcf/logform" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:dcscor="http://v8.1c.ru/8.1/data-composition-system/core" xmlns:dcsset="http://v8.1c.ru/8.1/data-composition-system/settings" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<WindowOpeningMode>LockOwnerWindow</WindowOpeningMode>
+	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1"/>
+	<Events>
+		<Event name="BeforeWrite">ПередЗаписью</Event>
+		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
+	</Events>
+	<ChildItems>
+		<CheckBoxField name="Используется" id="22">
+			<DataPath>Запись.Используется</DataPath>
+			<CheckBoxType>Switcher</CheckBoxType>
+			<ContextMenu name="ИспользуетсяКонтекстноеМеню" id="23"/>
+			<ExtendedTooltip name="ИспользуетсяРасширеннаяПодсказка" id="24"/>
+		</CheckBoxField>
+		<CheckBoxField name="УчитыватьЗанятость" id="27">
+			<DataPath>Запись.УчитыватьЗанятость</DataPath>
+			<CheckBoxType>Switcher</CheckBoxType>
+			<ContextMenu name="УчитыватьЗанятостьКонтекстноеМеню" id="28"/>
+			<ExtendedTooltip name="УчитыватьЗанятостьРасширеннаяПодсказка" id="29"/>
+			<Events>
+				<Event name="OnChange">УчитыватьЗанятостьПриИзменении</Event>
+			</Events>
+		</CheckBoxField>
+		<InputField name="РольИсполнителя" id="1">
+			<DataPath>Запись.РольИсполнителя</DataPath>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="РольИсполнителяКонтекстноеМеню" id="2"/>
+			<ExtendedTooltip name="РольИсполнителяРасширеннаяПодсказка" id="3"/>
+		</InputField>
+		<InputField name="КартаМаршрута" id="4">
+			<DataPath>Запись.КартаМаршрута</DataPath>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="КартаМаршрутаКонтекстноеМеню" id="5"/>
+			<ExtendedTooltip name="КартаМаршрутаРасширеннаяПодсказка" id="6"/>
+		</InputField>
+		<InputField name="ВремяПринятияЗадачи" id="7">
+			<DataPath>Запись.ВремяПринятияЗадачи</DataPath>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Настройка служит для использования механизма перераспределение задач согласно заданному интервалу. Чтобы её разблокировать необходимо очистить следующие реквизиты: Срок закрепления, "Тип документа" и установить "Закреплять ответственного" в значение Ложь</v8:content>
+				</v8:item>
+			</ToolTip>
+			<ToolTipRepresentation>Button</ToolTipRepresentation>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ContextMenu name="ВремяПринятияЗадачиКонтекстноеМеню" id="8"/>
+			<ExtendedTooltip name="ВремяПринятияЗадачиРасширеннаяПодсказка" id="9"/>
+			<Events>
+				<Event name="OnChange">ВремяПринятияЗадачиПриИзменении</Event>
+			</Events>
+		</InputField>
+		<UsualGroup name="ГруппаЗакрепленияОтвестсвенного" id="25">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа закрепления отвестсвенного</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Настройка служит для использования механизма распределения задач равномерно между сотрудниками. Чтобы её разблокировать необходимо установить значение реквизита "Время принятия задачи" равно 0</v8:content>
+				</v8:item>
+			</ToolTip>
+			<ToolTipRepresentation>Button</ToolTipRepresentation>
+			<Group>Vertical</Group>
+			<Behavior>Usual</Behavior>
+			<Representation>None</Representation>
+			<ShowTitle>false</ShowTitle>
+			<ExtendedTooltip name="ГруппаЗакрепленияОтвестсвенногоРасширеннаяПодсказка" id="26"/>
+			<ChildItems>
+				<CheckBoxField name="ЗакреплятьОтвественного" id="10">
+					<DataPath>Запись.ЗакреплятьОтвественного</DataPath>
+					<CheckBoxType>Switcher</CheckBoxType>
+					<ContextMenu name="ЗакреплятьОтвественногоКонтекстноеМеню" id="11"/>
+					<ExtendedTooltip name="ЗакреплятьОтвественногоРасширеннаяПодсказка" id="12"/>
+					<Events>
+						<Event name="OnChange">ЗакреплятьОтвественногоПриИзменении</Event>
+					</Events>
+				</CheckBoxField>
+				<InputField name="СрокЗакрепления" id="13">
+					<DataPath>Запись.СрокЗакрепления</DataPath>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<ContextMenu name="СрокЗакрепленияКонтекстноеМеню" id="14"/>
+					<ExtendedTooltip name="СрокЗакрепленияРасширеннаяПодсказка" id="15"/>
+					<Events>
+						<Event name="OnChange">СрокЗакрепленияПриИзменении</Event>
+					</Events>
+				</InputField>
+				<InputField name="ТипДокумента" id="19">
+					<DataPath>Запись.ИдентификаторОбъекта</DataPath>
+					<ClearButton>true</ClearButton>
+					<CreateButton>false</CreateButton>
+					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+					<QuickChoice>true</QuickChoice>
+					<ChoiceHistoryOnInput>DontUse</ChoiceHistoryOnInput>
+					<ContextMenu name="ТипДокументаКонтекстноеМеню" id="20"/>
+					<ExtendedTooltip name="ТипДокументаРасширеннаяПодсказка" id="21"/>
+					<Events>
+						<Event name="OnChange">ТипДокументаПриИзменении</Event>
+						<Event name="Clearing">ТипДокументаОчистка</Event>
+					</Events>
+				</InputField>
+			</ChildItems>
+		</UsualGroup>
+	</ChildItems>
+	<Attributes>
+		<Attribute name="Запись" id="1">
+			<Type>
+				<v8:Type>cfg:InformationRegisterRecordManager.Расш1_Дев_НастройкиРаспределенияЗадач</v8:Type>
+			</Type>
+			<MainAttribute>true</MainAttribute>
+			<SavedData>true</SavedData>
+		</Attribute>
+	</Attributes>
+</Form>

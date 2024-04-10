@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Document uuid="17ee1894-0eb3-4582-a9c7-9f74568d5cf0">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.РеализацияНедвижимости" category="Object">
+				<xr:TypeId>cec6bf24-c058-4a59-a32f-e990f0f0e82c</xr:TypeId>
+				<xr:ValueId>caae2f68-920a-4276-9eaf-f4797d662553</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.РеализацияНедвижимости" category="Ref">
+				<xr:TypeId>76dbd921-3eaf-45b6-b02e-ecffeff80ed2</xr:TypeId>
+				<xr:ValueId>feecda64-8e0c-4c1c-af19-0ebbc172a3d6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.РеализацияНедвижимости" category="Selection">
+				<xr:TypeId>434cbb04-1209-4c8a-a53c-316c39c6ab58</xr:TypeId>
+				<xr:ValueId>53189d3f-ccf7-45b3-92b7-2078d4126fd2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.РеализацияНедвижимости" category="List">
+				<xr:TypeId>79fbe9d9-61ce-48d1-8336-620ffc3df695</xr:TypeId>
+				<xr:ValueId>fae3a297-17ac-43b6-b7f2-32bb326bb292</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.РеализацияНедвижимости" category="Manager">
+				<xr:TypeId>3276b553-7eef-410b-9e2d-be223fe6e88b</xr:TypeId>
+				<xr:ValueId>30570953-1f0e-4c5d-b73a-1bc77a64b69b</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>РеализацияНедвижимости</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>7c1c45a9-b366-4495-a2b6-93ad5436d648</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects>
+			<Form>ФормаДокумента</Form>
+		</ChildObjects>
+	</Document>
+</MetaDataObject>

@@ -19,3 +19,8 @@ https://srv-1c-crm.corp.enco72.ru/test_kanban/?host=https://https://hq-1c-test3.
 
 /ipoteka/application/api/v1/products
 /ipoteka/application/api/v1/products
+
+
+по причине:
+Ошибка при выполнении операции с информационной базой
+Найдены дублирующиеся записи в менеджере имен базы данных.

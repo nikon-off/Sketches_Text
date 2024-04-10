@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<ChartOfCharacteristicTypes uuid="e9501b81-b486-4230-bdc7-614049f45bb7">
+		<InternalInfo>
+			<xr:GeneratedType name="ChartOfCharacteristicTypesObject.УПДК_ФормыОплаты" category="Object">
+				<xr:TypeId>1cedab23-cc3f-4c5c-bcd4-292397d02f29</xr:TypeId>
+				<xr:ValueId>dd7a9224-04bb-4b24-91c4-dee17b69f4a2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ChartOfCharacteristicTypesRef.УПДК_ФормыОплаты" category="Ref">
+				<xr:TypeId>ba126cd3-d92a-48c7-a0ce-6af57a2ce14c</xr:TypeId>
+				<xr:ValueId>6190da97-ac17-491b-b668-fa3b0e764953</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ChartOfCharacteristicTypesSelection.УПДК_ФормыОплаты" category="Selection">
+				<xr:TypeId>c9388d18-2218-4c68-bd25-4dffb1d24264</xr:TypeId>
+				<xr:ValueId>fe181591-c091-4667-bff2-2e332c89c717</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ChartOfCharacteristicTypesList.УПДК_ФормыОплаты" category="List">
+				<xr:TypeId>c3e6e288-2efb-4cdb-961a-8a1313081419</xr:TypeId>
+				<xr:ValueId>6344846e-57ef-40f8-ac27-2ea88106c751</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="Characteristic.УПДК_ФормыОплаты" category="Characteristic">
+				<xr:TypeId>ebc8c68e-91f7-446c-b385-b3daf95595a7</xr:TypeId>
+				<xr:ValueId>ffa6d18a-42de-4260-872c-fdfed451318e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ChartOfCharacteristicTypesManager.УПДК_ФормыОплаты" category="Manager">
+				<xr:TypeId>78942da3-72a0-48c3-807e-d3ad65049622</xr:TypeId>
+				<xr:ValueId>16eda9cb-534e-49e8-b2a0-d4419b62def4</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>УПДК_ФормыОплаты</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>7f0be60c-12dd-449e-b147-1da8d3c6fbd2</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</ChartOfCharacteristicTypes>
+</MetaDataObject>
