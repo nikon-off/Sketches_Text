@@ -12,6 +12,8 @@ sY4_vun@exix
 
 /n 4dev /p  @RE4cacib_!
 
+prog1 DimaS 123
+
 /ClearCache
 copy_prog2
 srv-1
