@@ -8,18 +8,14 @@
 		<Metadata name="ChartOfCharacteristicTypes.УПДК_ФормыОплаты" id="e9501b81-b486-4230-bdc7-614049f45bb7" configVersion="563f6027f91d5dd0e2e558a3951dd76e0f5702e3"/>
 		<Metadata name="CommonModule.CRM_БизнесПроцессыСервер" id="a50620a8-ca3b-4eae-b009-0ee5e24f4f72" configVersion="9c38a8a412c13e4462e5f7b3a3521b80a0b77a5d"/>
 		<Metadata name="CommonModule.CRM_БизнесПроцессыСервер.Module" id="a50620a8-ca3b-4eae-b009-0ee5e24f4f72.0" configVersion="6f2caf23948784acb1998cd486c7ed0f78a783f6"/>
-		<Metadata name="CommonModule.БизнесПроцессыИЗадачиСервер" id="8a0b9801-bc34-416e-8c19-72b3c1601200" configVersion="6b646c2383fefcd0824f0f7c58c37ba0ac20d6fc"/>
-		<Metadata name="CommonModule.БизнесПроцессыИЗадачиСервер.Module" id="8a0b9801-bc34-416e-8c19-72b3c1601200.0" configVersion="7163523e995fa62fd4a26bd4f9eb038dd3758854"/>
-		<Metadata name="CommonModule.УПДК_БизнесПроцессыИЗадачи" id="12b05826-a499-4eb6-8018-4e6a0e838398" configVersion="cccdf3384a6266444cc5ba2d5177f0dc5067e0d9"/>
-		<Metadata name="CommonModule.УПДК_БизнесПроцессыИЗадачи.Module" id="12b05826-a499-4eb6-8018-4e6a0e838398.0" configVersion="77bd1955377bd90381adeccc2ea4e781c5bd880e"/>
-		<Metadata name="CommonModule.УПДК_БизнесПроцессыИЗадачиПовтИсп" id="5fce6b37-3c84-4f0a-a7cb-8e87741a3e04" configVersion="e9c0ffef74621b8a675c01368d11d2b8efd7afd1"/>
-		<Metadata name="CommonModule.УПДК_БизнесПроцессыИЗадачиПовтИсп.Module" id="5fce6b37-3c84-4f0a-a7cb-8e87741a3e04.0" configVersion="d531a2e39c241019d7dd6f544a7cba2a5d35edf6"/>
+		<Metadata name="CommonModule.БизнесПроцессыИЗадачиСервер" id="8a0b9801-bc34-416e-8c19-72b3c1601200" configVersion="876da7fa7ca1c4bdd76676ce1ace907f7f143cdb"/>
+		<Metadata name="CommonModule.БизнесПроцессыИЗадачиСервер.Module" id="8a0b9801-bc34-416e-8c19-72b3c1601200.0" configVersion="92dc769855feba5e1cb9862d1f80091a269ceaea"/>
+		<Metadata name="CommonModule.УПДК_БизнесПроцессыИЗадачи" id="12b05826-a499-4eb6-8018-4e6a0e838398" configVersion="89007a838eee193fdce1e7a063d672bc6c720494"/>
+		<Metadata name="CommonModule.УПДК_БизнесПроцессыИЗадачи.Module" id="12b05826-a499-4eb6-8018-4e6a0e838398.0" configVersion="b550af3567affcd5451c977d3e2a756f64124a93"/>
 		<Metadata name="CommonPicture.ПлюсМинус" id="f30a2a18-ecae-4f73-8f2b-6a600b3a1d2e" configVersion="696d3c8cde73579ca686702f2763c82fafc2b158"/>
 		<Metadata name="CommonPicture.СтатусыДокумента" id="36b75613-06a7-49da-92b0-d21fa6b4efb4" configVersion="0f43195460da2e45b27fdfdc790bbe861e2bc6ee"/>
-		<Metadata name="Configuration.РаспределениеЗадач" id="20721b56-9a69-4987-a9a3-67a685b05075" configVersion="8932b23129d54cb9e2b460de0846f7d061b4b5ef"/>
-		<Metadata name="Document.РеализацияНедвижимости" id="17ee1894-0eb3-4582-a9c7-9f74568d5cf0" configVersion="e362eb6fc38ef862b67db3fa84d1dba616149cf7"/>
-		<Metadata name="Document.РеализацияНедвижимости.Form.ФормаДокумента" id="51938352-bc2d-4ca3-822d-4b55c83d0563" configVersion="011a9ffa51b68c5a029839efd6a3488622243b6d"/>
-		<Metadata name="Document.РеализацияНедвижимости.Form.ФормаДокумента.Form" id="51938352-bc2d-4ca3-822d-4b55c83d0563.0" configVersion="7083b13984f0f136038d5496e9ca032012af744d"/>
+		<Metadata name="Configuration.РаспределениеЗадач" id="20721b56-9a69-4987-a9a3-67a685b05075" configVersion="3a69b81914d20d6c5bf020a79401b9a66d215109"/>
+		<Metadata name="Document.РеализацияНедвижимости" id="17ee1894-0eb3-4582-a9c7-9f74568d5cf0" configVersion="d44c3c8614fe65472dd92a21f2eb2329e4da38fc"/>
 		<Metadata name="Enum.ТипыПредставителейОрганизации" id="10a34dd0-5c8c-46f7-8f75-6494babbfbf0" configVersion="b2907e8649946ab5783ddb43b82a29b432d84bfd">
 			<Metadata name="Enum.ТипыПредставителейОрганизации.EnumValue.ДоверенноеЛицо" id="ae07cffe-0bc7-424d-8479-af4e2bd36eef"/>
 			<Metadata name="Enum.ТипыПредставителейОрганизации.EnumValue.УполномоченноеЛицо" id="bed501f5-e383-414e-8bad-aa08cf4fea2d"/>
@@ -29,7 +25,7 @@
 			<Metadata name="Enum.УПДК_ТипыСобственности.EnumValue.Совместная" id="6c185407-7ff7-4c36-a370-088a6ceeaf17"/>
 			<Metadata name="Enum.УПДК_ТипыСобственности.EnumValue.Долевая" id="efef7d22-d12f-4623-bdbf-6999dd2e1831"/>
 		</Metadata>
-		<Metadata name="InformationRegister.Расш1_Дев_НастройкиРаспределенияЗадач" id="5d2e9d34-00df-45dc-99fb-7437773ebee3" configVersion="57e3be8c2c35b625d1bcf897f3316781f7d1fe09">
+		<Metadata name="InformationRegister.Расш1_Дев_НастройкиРаспределенияЗадач" id="5d2e9d34-00df-45dc-99fb-7437773ebee3" configVersion="4bbf5cb233b5adf11b6dd96f1e542667a071cacd">
 			<Metadata name="InformationRegister.Расш1_Дев_НастройкиРаспределенияЗадач.Resource.Используется" id="02f0c1ec-0623-4cd5-9971-ff3edab5fa30"/>
 			<Metadata name="InformationRegister.Расш1_Дев_НастройкиРаспределенияЗадач.Resource.ЗакреплятьОтвественного" id="0361f962-9c9c-4abf-8f70-bc934cbb5f10"/>
 			<Metadata name="InformationRegister.Расш1_Дев_НастройкиРаспределенияЗадач.Dimension.РольИсполнителя" id="08afe086-2f64-41f0-8d67-09a650cc6644"/>
@@ -43,14 +39,14 @@
 		<Metadata name="InformationRegister.Расш1_Дев_НастройкиРаспределенияЗадач.Form.ФормаЗаписи.Form" id="14f63dd8-1482-462e-8985-ad5056cff35f.0" configVersion="a3cefecdce2a85ff3463efb716583eb35fb5bd65"/>
 		<Metadata name="InformationRegister.Расш1_Дев_НастройкиРаспределенияЗадач.Form.ФормаСписка" id="97eee405-e0d5-4a52-872c-1aa1b7cc3a39" configVersion="a3527639e71c85b3fe11cc73e5c2eac3e37a5702"/>
 		<Metadata name="InformationRegister.Расш1_Дев_НастройкиРаспределенияЗадач.Form.ФормаСписка.Form" id="97eee405-e0d5-4a52-872c-1aa1b7cc3a39.0" configVersion="15dcba8d04e977f7f68e016d7fffe7d68bc51067"/>
-		<Metadata name="InformationRegister.Расш1_Дев_ПорядокПользователейДляРаспределенияЗадач" id="ab1d3282-376f-4c6f-88b6-0d4f4889b471" configVersion="0abcef162cef1877d16a9feba85eab45951ac28b">
+		<Metadata name="InformationRegister.Расш1_Дев_ПорядокПользователейДляРаспределенияЗадач" id="ab1d3282-376f-4c6f-88b6-0d4f4889b471" configVersion="8cc0c0b4ca3f569508e56c04a5089da68d9ba169">
 			<Metadata name="InformationRegister.Расш1_Дев_ПорядокПользователейДляРаспределенияЗадач.Dimension.ДопОтбор" id="5482e784-563d-4ce1-a58a-37503451e03e"/>
 			<Metadata name="InformationRegister.Расш1_Дев_ПорядокПользователейДляРаспределенияЗадач.Dimension.РольИсполнителя" id="67f106ed-8633-443b-a9d1-f377ac27898f"/>
 			<Metadata name="InformationRegister.Расш1_Дев_ПорядокПользователейДляРаспределенияЗадач.Dimension.Пользователь" id="8a295688-241f-4f30-aee7-da4a85610c3a"/>
 			<Metadata name="InformationRegister.Расш1_Дев_ПорядокПользователейДляРаспределенияЗадач.Resource.Порядок" id="cb22a503-3539-4364-8edd-5189e2abfd8d"/>
 			<Metadata name="InformationRegister.Расш1_Дев_ПорядокПользователейДляРаспределенияЗадач.Dimension.КартаМаршрута" id="e99b059b-7898-4f78-865c-7cbfdb61ebf2"/>
 		</Metadata>
-		<Metadata name="InformationRegister.Расш1_Дев_СрокиОтветственностиБрокеровВДоговорах" id="6d04bcb1-a7e3-4425-baf3-4017e827c20d" configVersion="0add831055fc1920250bf9ee314a6654f62831b9">
+		<Metadata name="InformationRegister.Расш1_Дев_СрокиОтветственностиБрокеровВДоговорах" id="6d04bcb1-a7e3-4425-baf3-4017e827c20d" configVersion="e1053412ea79ef3a568ed39c26827d7fe98e3d6a">
 			<Metadata name="InformationRegister.Расш1_Дев_СрокиОтветственностиБрокеровВДоговорах.Dimension.РольИсполнителя" id="9ffb74d0-1532-4e90-a8aa-c7adef56454f"/>
 			<Metadata name="InformationRegister.Расш1_Дев_СрокиОтветственностиБрокеровВДоговорах.Resource.Пользователь" id="c418c4bb-29f9-4fcc-adf7-0de2a21bcf48"/>
 			<Metadata name="InformationRegister.Расш1_Дев_СрокиОтветственностиБрокеровВДоговорах.Dimension.Договор" id="cd04252d-f6a4-4999-9a46-3ba4ba2a23d0"/>
@@ -61,14 +57,10 @@
 		<Metadata name="Role.CRM_БазовыеПрава.Rights" id="463999db-a22a-4079-98ae-3e6003d39b21.0" configVersion="0dc6552874278773ad11e57dc21315901b5bf346"/>
 		<Metadata name="Role.БазовыеПрава" id="fb78cece-ee17-444e-9b09-876ddc66d9a0" configVersion="9cca2ab2014f5a1009388b667408d91a48a36ce8"/>
 		<Metadata name="Role.БазовыеПрава.Rights" id="fb78cece-ee17-444e-9b09-876ddc66d9a0.0" configVersion="0dc6552874278773ad11e57dc21315901b5bf346"/>
-		<Metadata name="Role.Расш1_Дев_РаспределениеЗадач" id="cfdac61a-5e33-4b35-9589-1e11980aa499" configVersion="f04c6ec641d16e58dc11e933b3b7bf74fa04a287"/>
-		<Metadata name="Role.Расш1_Дев_РаспределениеЗадач.Rights" id="cfdac61a-5e33-4b35-9589-1e11980aa499.0" configVersion="e21ce5803b3c96af40e7f361ff768ab23a1bfab3"/>
 		<Metadata name="Role.ТолькоЧтение" id="28ff4475-5253-4186-a2f9-0ec2f7f0797c" configVersion="d929ecf06ab43215bbe12cc2f429dad78ce04029"/>
 		<Metadata name="Role.ТолькоЧтение.Rights" id="28ff4475-5253-4186-a2f9-0ec2f7f0797c.0" configVersion="0dc6552874278773ad11e57dc21315901b5bf346"/>
 		<Metadata name="Role.УПДК_БазовыеПрава" id="a61e121e-d770-47e1-88ee-0b123c0615cf" configVersion="16a789c47d5421616ae380d9584fd26837a39430"/>
 		<Metadata name="Role.УПДК_БазовыеПрава.Rights" id="a61e121e-d770-47e1-88ee-0b123c0615cf.0" configVersion="0dc6552874278773ad11e57dc21315901b5bf346"/>
-		<Metadata name="ScheduledJob.Расш1_Дев_НачальноеРаспределениеЗадач" id="383f9ae9-f0fb-4797-bb62-c8e2f5ba3212" configVersion="d5c7c3599850d98c4ade73a42319d39873600fc8"/>
-		<Metadata name="ScheduledJob.Расш1_Дев_ПерераспределениеЗадач" id="00559f1c-2f67-4e10-97dd-f1f9d8c7f3e4" configVersion="d984016bec9176786bb1b8a4b5ac55475a491383"/>
 		<Metadata name="StyleItem.НедоступныеДанныеЦвет" id="e3e1c097-a297-4bcc-980a-9fe7fa5ac58d" configVersion="bdb607c92b583073583057581e83f4686c8e60ab"/>
 		<Metadata name="StyleItem.ПоясняющийТекст" id="9cec8eab-3a69-4d07-92f8-51751c1d8b91" configVersion="641a47c2f0c6697e769da47fe095bb4092866bbd"/>
 		<Metadata name="StyleItem.ТекстЗапрещеннойЯчейкиЦвет" id="73e513fa-3845-42da-9566-6a36cc0193d4" configVersion="099dc749645453f6aaf16f190aead0513b1f7c90"/>

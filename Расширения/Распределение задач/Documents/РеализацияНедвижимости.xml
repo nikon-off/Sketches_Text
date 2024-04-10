@@ -30,8 +30,6 @@
 			<ExtendedConfigurationObject>7c1c45a9-b366-4495-a2b6-93ad5436d648</ExtendedConfigurationObject>
 			<RegisterRecords/>
 		</Properties>
-		<ChildObjects>
-			<Form>ФормаДокумента</Form>
-		</ChildObjects>
+		<ChildObjects/>
 	</Document>
 </MetaDataObject>

@@ -40,7 +40,7 @@
 					<v8:content>Распределение задач</v8:content>
 				</v8:item>
 			</Synonym>
-			<Comment/>
+			<Comment>Перед удалением, убедись, что данные регистров перенеслись в основную базу</Comment>
 			<ConfigurationExtensionPurpose>Customization</ConfigurationExtensionPurpose>
 			<KeepMappingToExtendedConfigurationObjectsByIDs>true</KeepMappingToExtendedConfigurationObjectsByIDs>
 			<NamePrefix>Расш1_</NamePrefix>
@@ -74,13 +74,9 @@
 			<Role>БазовыеПрава</Role>
 			<Role>УПДК_БазовыеПрава</Role>
 			<Role>ТолькоЧтение</Role>
-			<Role>Расш1_Дев_РаспределениеЗадач</Role>
 			<CommonModule>БизнесПроцессыИЗадачиСервер</CommonModule>
 			<CommonModule>УПДК_БизнесПроцессыИЗадачи</CommonModule>
-			<CommonModule>УПДК_БизнесПроцессыИЗадачиПовтИсп</CommonModule>
 			<CommonModule>CRM_БизнесПроцессыСервер</CommonModule>
-			<ScheduledJob>Расш1_Дев_НачальноеРаспределениеЗадач</ScheduledJob>
-			<ScheduledJob>Расш1_Дев_ПерераспределениеЗадач</ScheduledJob>
 			<Catalog>РолиИсполнителей</Catalog>
 			<Catalog>CRM_КартыМаршрутов</Catalog>
 			<Catalog>Пользователи</Catalog>
