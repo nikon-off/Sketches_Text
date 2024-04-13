@@ -24,3 +24,11 @@ https://srv-1c-crm.corp.enco72.ru/test_kanban/?host=https://https://hq-1c-test3.
 по причине:
 Ошибка при выполнении операции с информационной базой
 Найдены дублирующиеся записи в менеджере имен базы данных.
+
+512550000
+60000000
+
+https://app.4dev.app/rec/?host=https://sts.4dev.app&baseUrl=/api/hs/restapi_v1/
+https://app.4dev.app/rec/users/?host=https://sts.4dev.app&baseUrl=/api/hs/restapi_v1
+
+РезультатРассчета = Документы.УПДК_ГрафикВыдачиКлючей.РассчитатьДоступноеВремяВыдачи(ГрафикСсылка);

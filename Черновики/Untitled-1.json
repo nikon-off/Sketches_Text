@@ -1,10 +1,22 @@
 {
-    "errors": [
-        {
-            "code": 1012,
-            "message": "Required request body is missing: public ru.sberned.openapi2.dto.response.DataResponse<ru.sberned.openapi2.dto.response.CasUserResponseDto> ru.sberned.openapi2.controller.ClientController.create(ru.sberned.openapi2.dto.CasUserCreateDto,javax.servlet.http.HttpServletRequest)"
-        }
-    ],
-    "success": false,
-    "requestId": "2254e00b-544e-43ef-b1e7-01ceb8ba42b1"
+    "data": {
+        "id": 10064788,
+        "product": "UNDER_CONSTRUCTION",
+        "subproduct": "UNDER_CONSTRUCTION",
+        "borrowerCategory": "canConfirmIncome",
+        "region": 77,
+        "estateCost": 5000000,
+        "deposit": 2000000,
+        "term": 120,
+        "discounts": [
+            "DEVELOPER_COMMON"
+        ],
+        "payment": 56001.7,
+        "overpayment": 3720205.0,
+        "income": 72802.6,
+        "rate": 19.0,
+        "arctic": false
+    },
+    "success": true,
+    "requestId": "56a93e07-cbf1-4ae0-8435-b44290bbf9c9"
 }
