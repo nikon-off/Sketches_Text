@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsi:Event xsi1:type="xsi:SubscriptionEvent"
+    xmlns:xsi="http://schema.broadsoft.com/xsi"
+    xmlns:xsi1="http://www.w3.org/2001/XMLSchema-instance">
+    <xsi:eventID>11a76312-7e31-4600-9711-6a24d4d1f8cf</xsi:eventID>
+    <xsi:sequenceNumber>2</xsi:sequenceNumber>
+    <xsi:userId>MPBX_E_162438_948378639_EventSubscription@ip.beeline.ru</xsi:userId>
+    <xsi:externalApplicationId>948378639_de4056cb06df0961dba39c64a565a5c4</xsi:externalApplicationId>
+    <xsi:subscriptionId>17d659fc-e769-4fc7-b25b-8c7e80310513</xsi:subscriptionId>
+    <xsi:httpContact>
+        <xsi:uri>http://newbild.anflat.ru/api/hs/extint/beeline</xsi:uri>
+    </xsi:httpContact>
+    <xsi:targetId>9600834984@ip.beeline.ru</xsi:targetId>
+    <xsi:eventData xsi1:type="xsi:CallReceivedEvent">
+        <xsi:call>
+            <xsi:callId>callhalf-4328941341:0</xsi:callId>
+            <xsi:extTrackingId>e18d57b1-af34-4a3d-b255-af3152ef88b0</xsi:extTrackingId>
+            <xsi:networkCallId>515400D351AB-c73-c23ea700-e8b361-65daef5c-71e39</xsi:networkCallId>
+            <xsi:personality>Terminator</xsi:personality>
+            <xsi:state>Alerting</xsi:state>
+            <xsi:remoteParty>
+                <xsi:address countryCode="7">tel:+79491533355</xsi:address>
+                <xsi:callType>Network</xsi:callType>
+            </xsi:remoteParty>
+            <xsi:appearance>1</xsi:appearance>
+            <xsi:startTime>1708846940590</xsi:startTime>
+        </xsi:call>
+    </xsi:eventData>
+</xsi:Event>
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<xsi:Event xsi1:type="xsi:SubscriptionEvent"
+    xmlns:xsi="http://schema.broadsoft.com/xsi"
+    xmlns:xsi1="http://www.w3.org/2001/XMLSchema-instance">
+    <xsi:eventID>f0a0b111-d383-4c48-9a7e-1c8b2fdf80d1</xsi:eventID>
+    <xsi:sequenceNumber>3</xsi:sequenceNumber>
+    <xsi:userId>MPBX_E_162438_948378639_EventSubscription@ip.beeline.ru</xsi:userId>
+    <xsi:externalApplicationId>948378639_de4056cb06df0961dba39c64a565a5c4</xsi:externalApplicationId>
+    <xsi:subscriptionId>17d659fc-e769-4fc7-b25b-8c7e80310513</xsi:subscriptionId>
+    <xsi:httpContact>
+        <xsi:uri>http://newbild.anflat.ru/api/hs/extint/beeline</xsi:uri>
+    </xsi:httpContact>
+    <xsi:targetId>9600834984@ip.beeline.ru</xsi:targetId>
+    <xsi:eventData xsi1:type="xsi:CallReleasedEvent">
+        <xsi:call>
+            <xsi:callId>callhalf-4328941341:0</xsi:callId>
+            <xsi:extTrackingId>e18d57b1-af34-4a3d-b255-af3152ef88b0</xsi:extTrackingId>
+            <xsi:networkCallId>515400D351AB-c73-c23ea700-e8b361-65daef5c-71e39</xsi:networkCallId>
+            <xsi:personality>Terminator</xsi:personality>
+            <xsi:state>Released</xsi:state>
+            <xsi:releasingParty>remoteRelease</xsi:releasingParty>
+            <xsi:remoteParty>
+                <xsi:address countryCode="7">tel:+79491533355</xsi:address>
+                <xsi:callType>Network</xsi:callType>
+            </xsi:remoteParty>
+            <xsi:endpoint xsi1:type="xsi:AccessEndpoint">
+                <xsi:addressOfRecord>79600834984@ip.beeline.ru</xsi:addressOfRecord>
+            </xsi:endpoint>
+            <xsi:startTime>1708846940590</xsi:startTime>
+            <xsi:releaseTime>1708846959117</xsi:releaseTime>
+            <xsi:allowedRecordingControls>none</xsi:allowedRecordingControls>
+        </xsi:call>
+    </xsi:eventData>
+</xsi:Event>

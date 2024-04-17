@@ -1,22 +1,65 @@
 {
-    "data": {
-        "id": 10064788,
-        "product": "UNDER_CONSTRUCTION",
-        "subproduct": "UNDER_CONSTRUCTION",
-        "borrowerCategory": "canConfirmIncome",
-        "region": 77,
-        "estateCost": 5000000,
-        "deposit": 2000000,
-        "term": 120,
-        "discounts": [
-            "DEVELOPER_COMMON"
-        ],
-        "payment": 56001.7,
-        "overpayment": 3720205.0,
-        "income": 72802.6,
-        "rate": 19.0,
-        "arctic": false
+    "errors": [
+        {
+            "code": 1007,
+            "message": "Дата устройства на работу не соответствует формату 'yyyy-MM-dd'"
+        },
+        {
+            "code": 1007,
+            "message": "Серия паспорта не соответствует формату '1234'"
+        },
+        {
+            "code": 1007,
+            "message": "Номер паспорта не соответствует формату '123456'"
+        }
+    ],
+    "success": false,
+    "requestId": "0e015277-75ec-4d2e-a5c1-42e4c419b41e"
+}
+
+{
+    "additionalIncome": "10000",
+    "ГражданствоРФ": "RU",
+    "considerCoBorrowerIncome": false,
+    "contactMail": "kolya-n19901@mail.ru",
+    "contactPhoneMobile": "9499206914",
+    "education": {
+        "type": "HIGHER_EDUCATION_COMPLETED"
     },
-    "success": true,
-    "requestId": "56a93e07-cbf1-4ae0-8435-b44290bbf9c9"
+    "fullName": "Никонови Николайи Юрьевичи",
+    "hasDisabledChild": false,
+    "inn": "720317121800",
+    "isPensionViaSber": false,
+    "isTempRegistration": false,
+    "job": {
+        "employmentDate": "",
+        "jobOrganization": "ООО \"4ДЕВ\"",
+        "jobOrganizationInn": "7203444068",
+        "jobPosition": "Программист",
+        "jobSeniority": "LESS_SIX_MONTHS"
+    },
+    "jobIncomeTypeId": "SBERBANK_SALARY",
+    "marriageContract": false,
+    "marriageStatus": "MARRIED",
+    "passport": {
+        "birthPlace": "город Тюмень",
+        "issueDate": "2009-04-08",
+        "issuer": "отделом  УФМС России по Тюменской обл. в Центральном АО города Тюмени",
+        "number": "11111111111111",
+        "series": "71 11",
+        "subdivisionCode": "111111"
+    },
+    "proofIncome": "0",
+    "registrationAddress": {
+        "country": "РОССИЯ",
+        "flat": "25",
+        "flatType": "кв",
+        "house": "2",
+        "houseType": "д",
+        "postalCode": 0,
+        "region": "Тюмень",
+        "regionType": "г",
+        "street": "Мельникайте",
+        "streetType": "ул"
+    }
 }
