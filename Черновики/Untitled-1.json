@@ -1,65 +1,13 @@
 {
-    "errors": [
+    "data": [
         {
-            "code": 1007,
-            "message": "Дата устройства на работу не соответствует формату 'yyyy-MM-dd'"
-        },
-        {
-            "code": 1007,
-            "message": "Серия паспорта не соответствует формату '1234'"
-        },
-        {
-            "code": 1007,
-            "message": "Номер паспорта не соответствует формату '123456'"
+            "applicationId": 1443753,
+            "lastRequestMoment": "2024-04-18T05:47:12.041Z",
+            "signMoment": "2024-04-18T06:53:29.251Z",
+            "status": "APPROVED",
+            "error": null
         }
     ],
-    "success": false,
-    "requestId": "0e015277-75ec-4d2e-a5c1-42e4c419b41e"
-}
-
-{
-    "additionalIncome": "10000",
-    "ГражданствоРФ": "RU",
-    "considerCoBorrowerIncome": false,
-    "contactMail": "kolya-n19901@mail.ru",
-    "contactPhoneMobile": "9499206914",
-    "education": {
-        "type": "HIGHER_EDUCATION_COMPLETED"
-    },
-    "fullName": "Никонови Николайи Юрьевичи",
-    "hasDisabledChild": false,
-    "inn": "720317121800",
-    "isPensionViaSber": false,
-    "isTempRegistration": false,
-    "job": {
-        "employmentDate": "",
-        "jobOrganization": "ООО \"4ДЕВ\"",
-        "jobOrganizationInn": "7203444068",
-        "jobPosition": "Программист",
-        "jobSeniority": "LESS_SIX_MONTHS"
-    },
-    "jobIncomeTypeId": "SBERBANK_SALARY",
-    "marriageContract": false,
-    "marriageStatus": "MARRIED",
-    "passport": {
-        "birthPlace": "город Тюмень",
-        "issueDate": "2009-04-08",
-        "issuer": "отделом  УФМС России по Тюменской обл. в Центральном АО города Тюмени",
-        "number": "11111111111111",
-        "series": "71 11",
-        "subdivisionCode": "111111"
-    },
-    "proofIncome": "0",
-    "registrationAddress": {
-        "country": "РОССИЯ",
-        "flat": "25",
-        "flatType": "кв",
-        "house": "2",
-        "houseType": "д",
-        "postalCode": 0,
-        "region": "Тюмень",
-        "regionType": "г",
-        "street": "Мельникайте",
-        "streetType": "ул"
-    }
+    "success": true,
+    "requestId": "59c02ff2-7f59-4e29-93a9-5fd36333d94c"
 }
