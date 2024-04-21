@@ -1,13 +1,48 @@
 {
-    "data": [
+    "value": "625037, Тюменская обл, г.о. город Тюмень, г Тюмень, ул Белинского, д. 14, к. 1, стр. 1, подъезд 1, кв. 39",
+    "type": "Адрес",
+    "country": "РОССИЯ",
+    "addressType": "Муниципальный",
+    "countryCode": "643",
+    "ZIPcode": "625037",
+    "area": "Тюменская",
+    "areaType": "обл",
+    "city": "Тюмень",
+    "cityType": "г",
+    "street": "Белинского",
+    "streetType": "ул",
+    "id": "a949583e-2f93-4e8f-a87d-25fdf968f11d",
+    "areaId": "54049357-326d-4b8f-b224-3c6dc25d6dd3",
+    "munDistrict": "город Тюмень",
+    "munDistrictType": "г.о.",
+    "munDistrictId": "95791f2f-0c19-45d9-ac2f-8703d04bc76b",
+    "cityId": "9ae64229-9f7b-4149-b27a-d1f6ec74b5ce",
+    "streetId": "a949583e-2f93-4e8f-a87d-25fdf968f11d",
+    "houseType": "Дом",
+    "houseNumber": "14",
+    "houseId": "479dbda1-0f6d-4ce7-95a6-5f4f39c06e66",
+    "buildings": [
         {
-            "applicationId": 1443753,
-            "lastRequestMoment": "2024-04-18T05:47:12.041Z",
-            "signMoment": "2024-04-18T06:53:29.251Z",
-            "status": "APPROVED",
-            "error": null
+            "type": "Корпус",
+            "number": "1"
+        },
+        {
+            "type": "Строение",
+            "number": "1"
         }
     ],
-    "success": true,
-    "requestId": "59c02ff2-7f59-4e29-93a9-5fd36333d94c"
+    "apartments": [
+        {
+            "type": "Подъезд",
+            "number": "1"
+        },
+        {
+            "type": "Квартира",
+            "number": "39"
+        }
+    ],
+    "oktmo": "71701000001",
+    "okato": "71401000000",
+    "ifnsFLCode": "7230",
+    "ifnsULCode": "7203"
 }
