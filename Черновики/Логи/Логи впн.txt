@@ -1,0 +1,157 @@
+2024-04-24 14:56:22 DEPRECATED OPTION: --cipher set to 'AES-256-CBC' but missing in --data-ciphers (AES-256-GCM:AES-128-GCM). Future OpenVPN version will ignore --cipher for cipher negotiations. Add 'AES-256-CBC' to --data-ciphers or change --cipher 'AES-256-CBC' to --data-ciphers-fallback 'AES-256-CBC' to silence this warning.
+2024-04-24 14:56:22 OpenVPN 2.5.5 Windows-MSVC [SSL (OpenSSL)] [LZO] [LZ4] [PKCS11] [AEAD] built on Dec 15 2021
+2024-04-24 14:56:22 Windows version 10.0 (Windows 10 or greater) 64bit
+2024-04-24 14:56:22 library versions: OpenSSL 1.1.1l  24 Aug 2021, LZO 2.10
+2024-04-24 14:56:22 MANAGEMENT: TCP Socket listening on [AF_INET]127.0.0.1:25340
+2024-04-24 14:56:22 Need hold release from management interface, waiting...
+2024-04-24 14:56:22 MANAGEMENT: Client connected from [AF_INET]127.0.0.1:25340
+2024-04-24 14:56:22 MANAGEMENT: CMD 'state on'
+2024-04-24 14:56:22 MANAGEMENT: CMD 'log all on'
+2024-04-24 14:56:22 MANAGEMENT: CMD 'echo all on'
+2024-04-24 14:56:22 MANAGEMENT: CMD 'bytecount 5'
+2024-04-24 14:56:22 MANAGEMENT: CMD 'hold off'
+2024-04-24 14:56:22 MANAGEMENT: CMD 'hold release'
+2024-04-24 14:56:27 MANAGEMENT: CMD 'username "Auth" "4devProg"'
+2024-04-24 14:56:27 MANAGEMENT: CMD 'password [...]'
+2024-04-24 14:56:27 MANAGEMENT: CMD 'password [...]'
+2024-04-24 14:56:27 WARNING: this configuration may cache passwords in memory -- use the auth-nocache option to prevent this
+2024-04-24 14:56:27 TCP/UDP: Preserving recently used remote address: [AF_INET]178.46.154.64:15372
+2024-04-24 14:56:27 Socket Buffers: R=[65536->65536] S=[65536->65536]
+2024-04-24 14:56:27 Attempting to establish TCP connection with [AF_INET]178.46.154.64:15372 [nonblock]
+2024-04-24 14:56:27 MANAGEMENT: >STATE:1713952587,TCP_CONNECT,,,,,,
+2024-04-24 14:56:27 TCP connection established with [AF_INET]178.46.154.64:15372
+2024-04-24 14:56:27 TCP_CLIENT link local: (not bound)
+2024-04-24 14:56:27 TCP_CLIENT link remote: [AF_INET]178.46.154.64:15372
+2024-04-24 14:56:27 MANAGEMENT: >STATE:1713952587,WAIT,,,,,,
+2024-04-24 14:56:27 MANAGEMENT: >STATE:1713952587,AUTH,,,,,,
+2024-04-24 14:56:27 TLS: Initial packet from [AF_INET]178.46.154.64:15372, sid=1fd038c5 44acd516
+2024-04-24 14:56:27 VERIFY OK: depth=1, C=RU, ST=Tumn, L=Tumen, O=Zvezda, CN=CA
+2024-04-24 14:56:27 VERIFY KU OK
+2024-04-24 14:56:27 Validating certificate extended key usage
+2024-04-24 14:56:27 ++ Certificate has EKU (str) TLS Web Server Authentication, expects TLS Web Server Authentication
+2024-04-24 14:56:27 VERIFY EKU OK
+2024-04-24 14:56:27 VERIFY OK: depth=0, CN=ovpn_server
+2024-04-24 14:56:27 Connection reset, restarting [0]
+2024-04-24 14:56:27 SIGUSR1[soft,connection-reset] received, process restarting
+2024-04-24 14:56:27 MANAGEMENT: >STATE:1713952587,RECONNECTING,connection-reset,,,,,
+2024-04-24 14:56:27 Restart pause, 5 second(s)
+2024-04-24 14:56:32 TCP/UDP: Preserving recently used remote address: [AF_INET]178.46.154.64:15372
+2024-04-24 14:56:32 Socket Buffers: R=[65536->65536] S=[65536->65536]
+2024-04-24 14:56:32 Attempting to establish TCP connection with [AF_INET]178.46.154.64:15372 [nonblock]
+2024-04-24 14:56:32 MANAGEMENT: >STATE:1713952592,TCP_CONNECT,,,,,,
+2024-04-24 14:56:32 TCP connection established with [AF_INET]178.46.154.64:15372
+2024-04-24 14:56:32 TCP_CLIENT link local: (not bound)
+2024-04-24 14:56:32 TCP_CLIENT link remote: [AF_INET]178.46.154.64:15372
+2024-04-24 14:56:32 MANAGEMENT: >STATE:1713952592,WAIT,,,,,,
+2024-04-24 14:56:32 MANAGEMENT: >STATE:1713952592,AUTH,,,,,,
+2024-04-24 14:56:32 TLS: Initial packet from [AF_INET]178.46.154.64:15372, sid=75137284 938621bf
+2024-04-24 14:56:32 VERIFY OK: depth=1, C=RU, ST=Tumn, L=Tumen, O=Zvezda, CN=CA
+2024-04-24 14:56:32 VERIFY KU OK
+2024-04-24 14:56:32 Validating certificate extended key usage
+2024-04-24 14:56:32 ++ Certificate has EKU (str) TLS Web Server Authentication, expects TLS Web Server Authentication
+2024-04-24 14:56:32 VERIFY EKU OK
+2024-04-24 14:56:32 VERIFY OK: depth=0, CN=ovpn_server
+2024-04-24 14:56:33 Connection reset, restarting [0]
+2024-04-24 14:56:33 SIGUSR1[soft,connection-reset] received, process restarting
+2024-04-24 14:56:33 MANAGEMENT: >STATE:1713952593,RECONNECTING,connection-reset,,,,,
+2024-04-24 14:56:33 Restart pause, 5 second(s)
+2024-04-24 14:56:38 TCP/UDP: Preserving recently used remote address: [AF_INET]178.46.154.64:15372
+2024-04-24 14:56:38 Socket Buffers: R=[65536->65536] S=[65536->65536]
+2024-04-24 14:56:38 Attempting to establish TCP connection with [AF_INET]178.46.154.64:15372 [nonblock]
+2024-04-24 14:56:38 MANAGEMENT: >STATE:1713952598,TCP_CONNECT,,,,,,
+2024-04-24 14:56:38 TCP connection established with [AF_INET]178.46.154.64:15372
+2024-04-24 14:56:38 TCP_CLIENT link local: (not bound)
+2024-04-24 14:56:38 TCP_CLIENT link remote: [AF_INET]178.46.154.64:15372
+2024-04-24 14:56:38 MANAGEMENT: >STATE:1713952598,WAIT,,,,,,
+2024-04-24 14:56:38 MANAGEMENT: >STATE:1713952598,AUTH,,,,,,
+2024-04-24 14:56:38 TLS: Initial packet from [AF_INET]178.46.154.64:15372, sid=5fe939eb bb7315c6
+2024-04-24 14:56:38 VERIFY OK: depth=1, C=RU, ST=Tumn, L=Tumen, O=Zvezda, CN=CA
+2024-04-24 14:56:38 VERIFY KU OK
+2024-04-24 14:56:38 Validating certificate extended key usage
+2024-04-24 14:56:38 ++ Certificate has EKU (str) TLS Web Server Authentication, expects TLS Web Server Authentication
+2024-04-24 14:56:38 VERIFY EKU OK
+2024-04-24 14:56:38 VERIFY OK: depth=0, CN=ovpn_server
+2024-04-24 14:56:38 Connection reset, restarting [0]
+2024-04-24 14:56:38 SIGUSR1[soft,connection-reset] received, process restarting
+2024-04-24 14:56:38 MANAGEMENT: >STATE:1713952598,RECONNECTING,connection-reset,,,,,
+2024-04-24 14:56:38 Restart pause, 5 second(s)
+2024-04-24 14:56:43 TCP/UDP: Preserving recently used remote address: [AF_INET]178.46.154.64:15372
+2024-04-24 14:56:43 Socket Buffers: R=[65536->65536] S=[65536->65536]
+2024-04-24 14:56:43 Attempting to establish TCP connection with [AF_INET]178.46.154.64:15372 [nonblock]
+2024-04-24 14:56:43 MANAGEMENT: >STATE:1713952603,TCP_CONNECT,,,,,,
+2024-04-24 14:56:43 TCP connection established with [AF_INET]178.46.154.64:15372
+2024-04-24 14:56:43 TCP_CLIENT link local: (not bound)
+2024-04-24 14:56:43 TCP_CLIENT link remote: [AF_INET]178.46.154.64:15372
+2024-04-24 14:56:43 MANAGEMENT: >STATE:1713952603,WAIT,,,,,,
+2024-04-24 14:56:43 MANAGEMENT: >STATE:1713952603,AUTH,,,,,,
+2024-04-24 14:56:43 TLS: Initial packet from [AF_INET]178.46.154.64:15372, sid=87cbde94 4643a1cd
+2024-04-24 14:56:43 VERIFY OK: depth=1, C=RU, ST=Tumn, L=Tumen, O=Zvezda, CN=CA
+2024-04-24 14:56:43 VERIFY KU OK
+2024-04-24 14:56:43 Validating certificate extended key usage
+2024-04-24 14:56:43 ++ Certificate has EKU (str) TLS Web Server Authentication, expects TLS Web Server Authentication
+2024-04-24 14:56:43 VERIFY EKU OK
+2024-04-24 14:56:43 VERIFY OK: depth=0, CN=ovpn_server
+2024-04-24 14:56:43 Connection reset, restarting [0]
+2024-04-24 14:56:43 SIGUSR1[soft,connection-reset] received, process restarting
+2024-04-24 14:56:43 MANAGEMENT: >STATE:1713952603,RECONNECTING,connection-reset,,,,,
+2024-04-24 14:56:43 Restart pause, 5 second(s)
+2024-04-24 14:56:48 TCP/UDP: Preserving recently used remote address: [AF_INET]178.46.154.64:15372
+2024-04-24 14:56:48 Socket Buffers: R=[65536->65536] S=[65536->65536]
+2024-04-24 14:56:48 Attempting to establish TCP connection with [AF_INET]178.46.154.64:15372 [nonblock]
+2024-04-24 14:56:48 MANAGEMENT: >STATE:1713952608,TCP_CONNECT,,,,,,
+2024-04-24 14:56:48 TCP connection established with [AF_INET]178.46.154.64:15372
+2024-04-24 14:56:48 TCP_CLIENT link local: (not bound)
+2024-04-24 14:56:48 TCP_CLIENT link remote: [AF_INET]178.46.154.64:15372
+2024-04-24 14:56:48 MANAGEMENT: >STATE:1713952608,WAIT,,,,,,
+2024-04-24 14:56:48 MANAGEMENT: >STATE:1713952608,AUTH,,,,,,
+2024-04-24 14:56:48 TLS: Initial packet from [AF_INET]178.46.154.64:15372, sid=5f372f72 9efc999b
+2024-04-24 14:56:48 VERIFY OK: depth=1, C=RU, ST=Tumn, L=Tumen, O=Zvezda, CN=CA
+2024-04-24 14:56:48 VERIFY KU OK
+2024-04-24 14:56:48 Validating certificate extended key usage
+2024-04-24 14:56:48 ++ Certificate has EKU (str) TLS Web Server Authentication, expects TLS Web Server Authentication
+2024-04-24 14:56:48 VERIFY EKU OK
+2024-04-24 14:56:48 VERIFY OK: depth=0, CN=ovpn_server
+2024-04-24 14:56:48 Connection reset, restarting [0]
+2024-04-24 14:56:48 SIGUSR1[soft,connection-reset] received, process restarting
+2024-04-24 14:56:48 MANAGEMENT: >STATE:1713952608,RECONNECTING,connection-reset,,,,,
+2024-04-24 14:56:48 Restart pause, 10 second(s)
+2024-04-24 14:56:58 TCP/UDP: Preserving recently used remote address: [AF_INET]178.46.154.64:15372
+2024-04-24 14:56:58 Socket Buffers: R=[65536->65536] S=[65536->65536]
+2024-04-24 14:56:58 Attempting to establish TCP connection with [AF_INET]178.46.154.64:15372 [nonblock]
+2024-04-24 14:56:58 MANAGEMENT: >STATE:1713952618,TCP_CONNECT,,,,,,
+2024-04-24 14:56:58 TCP connection established with [AF_INET]178.46.154.64:15372
+2024-04-24 14:56:58 TCP_CLIENT link local: (not bound)
+2024-04-24 14:56:58 TCP_CLIENT link remote: [AF_INET]178.46.154.64:15372
+2024-04-24 14:56:58 MANAGEMENT: >STATE:1713952618,WAIT,,,,,,
+2024-04-24 14:56:58 MANAGEMENT: >STATE:1713952618,AUTH,,,,,,
+2024-04-24 14:56:58 TLS: Initial packet from [AF_INET]178.46.154.64:15372, sid=82da11f2 d8889be7
+2024-04-24 14:56:58 VERIFY OK: depth=1, C=RU, ST=Tumn, L=Tumen, O=Zvezda, CN=CA
+2024-04-24 14:56:58 VERIFY KU OK
+2024-04-24 14:56:58 Validating certificate extended key usage
+2024-04-24 14:56:58 ++ Certificate has EKU (str) TLS Web Server Authentication, expects TLS Web Server Authentication
+2024-04-24 14:56:58 VERIFY EKU OK
+2024-04-24 14:56:58 VERIFY OK: depth=0, CN=ovpn_server
+2024-04-24 14:56:58 Connection reset, restarting [0]
+2024-04-24 14:56:58 SIGUSR1[soft,connection-reset] received, process restarting
+2024-04-24 14:56:58 MANAGEMENT: >STATE:1713952618,RECONNECTING,connection-reset,,,,,
+2024-04-24 14:56:58 Restart pause, 20 second(s)
+2024-04-24 14:57:18 TCP/UDP: Preserving recently used remote address: [AF_INET]178.46.154.64:15372
+2024-04-24 14:57:18 Socket Buffers: R=[65536->65536] S=[65536->65536]
+2024-04-24 14:57:18 Attempting to establish TCP connection with [AF_INET]178.46.154.64:15372 [nonblock]
+2024-04-24 14:57:18 MANAGEMENT: >STATE:1713952638,TCP_CONNECT,,,,,,
+2024-04-24 14:57:18 TCP connection established with [AF_INET]178.46.154.64:15372
+2024-04-24 14:57:18 TCP_CLIENT link local: (not bound)
+2024-04-24 14:57:18 TCP_CLIENT link remote: [AF_INET]178.46.154.64:15372
+2024-04-24 14:57:18 MANAGEMENT: >STATE:1713952638,WAIT,,,,,,
+2024-04-24 14:57:18 MANAGEMENT: >STATE:1713952638,AUTH,,,,,,
+2024-04-24 14:57:18 TLS: Initial packet from [AF_INET]178.46.154.64:15372, sid=7dc6f9e9 b0a165ba
+2024-04-24 14:57:18 VERIFY OK: depth=1, C=RU, ST=Tumn, L=Tumen, O=Zvezda, CN=CA
+2024-04-24 14:57:18 VERIFY KU OK
+2024-04-24 14:57:18 Validating certificate extended key usage
+2024-04-24 14:57:18 ++ Certificate has EKU (str) TLS Web Server Authentication, expects TLS Web Server Authentication
+2024-04-24 14:57:18 VERIFY EKU OK
+2024-04-24 14:57:18 VERIFY OK: depth=0, CN=ovpn_server
+2024-04-24 14:57:18 Connection reset, restarting [0]
+2024-04-24 14:57:18 SIGUSR1[soft,connection-reset] received, process restarting
+2024-04-24 14:57:18 MANAGEMENT: >STATE:1713952638,RECONNECTING,connection-reset,,,,,
+2024-04-24 14:57:18 Restart pause, 40 second(s)

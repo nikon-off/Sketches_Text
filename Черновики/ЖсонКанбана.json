@@ -1,67 +1,256 @@
 {
-    "list_mode": false,
-    "sales_funnel_id": "65cf5323-258c-11e9-a203-00155d000217",
-    "Page": 1,
-    "PageSize": 10,
-    "users_id": [
-        "3a52611e-6b1d-11e8-836c-1cb72cafa0f8"
-    ],
-    "date_sort": "УБЫВ", события
-    "sort_by_deal_date": false
+    "entry_id": "MjAzNTI1NzA0NjA=",
+    "call_direction": 1,
+    "from": {
+        "number": "79160587550"
+    },
+    "to": {
+        "number": "73452562040"
+    },
+    "line_number": "83452562080",
+    "create_time": 1713758398,
+    "forward_time": 1713758408,
+    "talk_time": 1713758408,
+    "end_time": 1713758505,
+    "entry_result": 1,
+    "disconnect_reason": 1110,
+    "sip_call_id": "1713-758398-110163"
 }
 
 {
-    "list_mode": false,
-    "sales_funnel_id": "65cf5323-258c-11e9-a203-00155d000217",
-    "Page": 1,
-    "PageSize": 10,
-    "date_from": "2024-03-01",
-    "date_to": "2024-03-31",
-    "date_sort": "УБЫВ", события
-    "sort_by_deal_date": false
+    "entry_id": "MjAzNTI1NzA0NjA=",
+    "call_direction": 1,
+    "from": {
+        "number": "79160587550"
+    },
+    "to": {
+        "number": "73452562040"
+    },
+    "line_number": "83452562080",
+    "create_time": 1713758398,
+    "forward_time": 1713758408,
+    "talk_time": 1713758408,
+    "end_time": 1713758505,
+    "entry_result": 1,
+    "disconnect_reason": 1110,
+    "sip_call_id": "1713-758398-110163"
 }
 
 {
-    "list_mode": false,
-    "sales_funnel_id": "65cf5323-258c-11e9-a203-00155d000217",
-    "Page": 1,
-    "PageSize": 10,
-    "date_from": "2024-03-01",
-    "date_to": "2024-03-31",
-    "date_sort": "ВОЗР", события
-    "sort_by_deal_date": false
+    "entry_id": "MjAzNDc4ODMxNTQ=",
+    "call_direction": 1,
+    "to": {
+        "extension": "3005",
+        "number": "sip:a3005@vpbx400294138.mangosip.ru"
+    },
+    "create_time": 1713673666,
+    "forward_time": 0,
+    "talk_time": 0,
+    "end_time": 1713673722,
+    "entry_result": 0,
+    "disconnect_reason": 1120
 }
 
 {
-    "list_mode": false,
-    "sales_funnel_id": "65cf5323-258c-11e9-a203-00155d000217",
-    "Page": 1,
-    "PageSize": 10,
-    "date_from": "2024-03-01",
-    "date_to": "2024-03-31",
-    "date_sort": "УБЫВ", сделка
-    "sort_by_deal_date": true
+    "entry_id": "MjAzNDc4ODMxNTQ=",
+    "call_direction": 1,
+    "to": {
+        "extension": "3005",
+        "number": "sip:a3005@vpbx400294138.mangosip.ru"
+    },
+    "create_time": 1713673666,
+    "forward_time": 0,
+    "talk_time": 0,
+    "end_time": 1713673722,
+    "entry_result": 0,
+    "disconnect_reason": 1120
 }
 
 {
-    "list_mode": false,
-    "sales_funnel_id": "65cf5323-258c-11e9-a203-00155d000217",
-    "Page": 1,
-    "PageSize": 10,
-    "date_from": "2024-03-01",
-    "date_to": "2024-03-31",
-    "date_sort": "ВОЗР", сделка
-    "sort_by_deal_date": true
+    "entry_id": "MjAzNDc4ODMxNTQ=",
+    "call_id": "MToxMDE5NjIxMzo0MjE6MTI2MjkyMTQ2Ng==",
+    "command_id": "5a192ef3-e936-4159-9159-ff47e6c98f6b",
+    "timestamp": 1713673722,
+    "seq": 2,
+    "call_state": "Disconnected",
+    "location": "abonent",
+    "from": {
+        "extension": "3002",
+        "number": "sip:a3002@vpbx400294138.mangosip.ru"
+    },
+    "to": {
+        "number": "79822298742",
+        "acd_group": "3000"
+    },
+    "disconnect_reason": 1120,
+    "dct": {
+        "type": 0
+    }
 }
 
 {
-    "list_mode": false,
-    "sales_funnel_id": "65cf5323-258c-11e9-a203-00155d000217",
-    "Page": 1,
-    "PageSize": 10,
-    "event_timeline_filter": "1",
-    "date_from": "2024-03-01",
-    "date_to": "2024-03-31",
-    "date_sort": "ВОЗР",
-    "sort_by_deal_date": true
+    "entry_id": "MjAzNTE5NzY1MTU=",
+    "call_direction": 1,
+    "from": {
+        "number": "79829833618"
+    },
+    "to": {
+        "number": "73452562040"
+    },
+    "line_number": "83452562080",
+    "create_time": 1713719145,
+    "forward_time": 1713719155,
+    "talk_time": 1713719155,
+    "end_time": 1713719334,
+    "entry_result": 1,
+    "disconnect_reason": 1120,
+    "sip_call_id": "1713-719145-184383"
+}
+
+{
+    "entry_id": "MjAzNTE5NzY1MTU=",
+    "call_id": "MToxMDE5NjIxMzoyMjE6ODIyNjExMDU3OjE=",
+    "timestamp": 1713719145,
+    "seq": 1,
+    "call_state": "Appeared",
+    "location": "ivr",
+    "from": {
+        "number": "79829833618"
+    },
+    "to": {
+        "number": "83452562080",
+        "line_number": "83452562080"
+    },
+    "dct": {
+        "type": 0
+    },
+    "sip_call_id": "1713-719145-184383"
+}
+
+{
+    "entry_id": "MjAzNTE5NzY1MTU=",
+    "call_id": "MToxMDE5NjIxMzoyMjE6ODIyNjExMDU3OjE=",
+    "timestamp": 1713719155,
+    "seq": 2,
+    "call_state": "Disconnected",
+    "location": "ivr",
+    "from": {
+        "number": "79829833618"
+    },
+    "to": {
+        "number": "83452562080",
+        "line_number": "83452562080"
+    },
+    "disconnect_reason": 1100,
+    "dct": {
+        "type": 0
+    },
+    "sip_call_id": "1713-719145-184383"
+}
+{
+    "entry_id": "MjAzNTE5NzY1MTU=",
+    "call_id": "MToxMDE5NjIxMzoyMjE6ODIyNjExMDcx",
+    "timestamp": 1713719154,
+    "seq": 1,
+    "call_state": "Appeared",
+    "location": "abonent",
+    "from": {
+        "number": "79829833618",
+        "taken_from_call_id": "MToxMDE5NjIxMzoyMjE6ODIyNjExMDU3OjE="
+    },
+    "to": {
+        "number": "73452562040",
+        "line_number": "83452562080"
+    },
+    "dct": {
+        "type": 0
+    },
+    "sip_call_id": "1713-719145-184383"
+}
+
+{
+    "entry_id": "MjAzNTE5NzY1MTU=",
+    "call_direction": 1,
+    "from": {
+        "number": "79829833618"
+    },
+    "to": {
+        "number": "73452562040"
+    },
+    "line_number": "83452562080",
+    "create_time": 1713719145,
+    "forward_time": 1713719155,
+    "talk_time": 1713719155,
+    "end_time": 1713719334,
+    "entry_result": 1,
+    "disconnect_reason": 1120,
+    "sip_call_id": "1713-719145-184383"
+}
+
+{
+    "entry_id": "MjAzOTAwMzcyMzQ=",
+    "call_id": "MToxMDE5NjIxMzoyMjE6ODI1MTYwODM4",
+    "timestamp": 1714038960,
+    "seq": 4,
+    "call_state": "Disconnected",
+    "location": "abonent",
+    "from": {
+        "number": "79044843333",
+        "taken_from_call_id": "MToxMDE5NjIxMzoyMjE6ODI1MTYwMTAz"
+    },
+    "to": {
+        "number": "1701"
+    },
+    "disconnect_reason": 1120,
+    "campaign_id": 1464901,
+    "task_id": 1097274910,
+    "callback_initiator": "MissGroupCallCallback",
+    "dct": {
+        "type": 0
+    }
+}
+
+{
+    "entry_id": "MjAzOTAwMzcyMzQ=",
+    "call_id": "MToxMDE5NjIxMzoyMjE6ODI1MTYwODM4",
+    "timestamp": 1714038472,
+    "seq": 3,
+    "call_state": "Connected",
+    "location": "abonent",
+    "from": {
+        "number": "79044843333",
+        "taken_from_call_id": "MToxMDE5NjIxMzoyMjE6ODI1MTYwMTAz"
+    },
+    "to": {
+        "number": "1701"
+    },
+    "campaign_id": 1464901,
+    "task_id": 1097274910,
+    "callback_initiator": "MissGroupCallCallback",
+    "dct": {
+        "type": 0
+    }
+}
+
+{
+    "entry_id": "MjAzOTAwMzcyMzQ=",
+    "call_id": "MToxMDE5NjIxMzoyMjE6ODI1MTYwMTAz",
+    "timestamp": 1714038417,
+    "seq": 1,
+    "call_state": "Appeared",
+    "location": "abonent",
+    "from": {
+        "extension": "3002",
+        "number": "sip:a3002@vpbx400294138.mangosip.ru"
+    },
+    "to": {
+        "number": "79044843333",
+        "acd_group": "3000"
+    },
+    "campaign_id": 1464901,
+    "task_id": 1097274910,
+    "callback_initiator": "MissGroupCallCallback",
+    "dct": {
+        "type": 0
+    }
 }

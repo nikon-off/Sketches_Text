@@ -1,0 +1,98 @@
+<residentialComplexDetails xmlns="http://model.tfido.escrow.sbrf.ru"
+    xmlns:esb="http://esb.tfido.sbt.com"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:escr="http://model.tfido.escrow.sbrf.ru">
+    <residentialComplex>
+        <residentialComplexInfo>
+            <name>ЖК &quot;Онегин. Дом у озера&quot; 1 очередь</name>
+            <constructionAddress>Тюменская область, г. Тюмень, улица Лесопарковая, дом 1, корпус 1</constructionAddress>
+        </residentialComplexInfo>
+        <commissioningObject>
+            <code>0001</code>
+            <title>Тюменская область, г. Тюмень, улица Лесопарковая, дом 1, корпус 1</title>
+            <expireDate>2024-06-30+03:00</expireDate>
+            <state>DOCUMENTS_RECEIVED</state>
+        </commissioningObject>
+    </residentialComplex>
+    <residentialComplex>
+        <residentialComplexInfo>
+            <name>ЖК &quot;Онегин. Дом у озера&quot; г. Тюмень, район оз. Оброчное, 2 очередь строительства</name>
+            <constructionAddress>Тюменская область, г. Тюмень, ул. Лесопарковая, д.1 ,корп. 2</constructionAddress>
+        </residentialComplexInfo>
+        <commissioningObject>
+            <code>0002</code>
+            <title>Тюменская область, г. Тюмень, ул. Лесопарковая, д.1 ,корп. 2</title>
+            <expireDate>2025-09-30+03:00</expireDate>
+            <state>ACTIVE</state>
+        </commissioningObject>
+    </residentialComplex>
+    <authorizedRepresentative>
+        <baseInfo>
+            <lastName>Кривцов</lastName>
+            <firstName>Максим</firstName>
+            <middleName>Владимирович</middleName>
+            <position>Генеральный директор</position>
+            <powerOfAttorney>
+                <title>Устав</title>
+            </powerOfAttorney>
+        </baseInfo>
+        <loginSBBOL>krivmv5053</loginSBBOL>
+    </authorizedRepresentative>
+    <authorizedRepresentative>
+        <baseInfo>
+            <lastName>Пименов</lastName>
+            <firstName>Дмитрий</firstName>
+            <middleName>Анатольевич</middleName>
+            <position>доверенное лицо</position>
+            <powerOfAttorney>
+                <title>Доверенность</title>
+                <number>б/н</number>
+                <issueDate>2021-12-06+03:00</issueDate>
+            </powerOfAttorney>
+            <certificateSerial>B26B2</certificateSerial>
+        </baseInfo>
+        <loginSBBOL>pimeda1225</loginSBBOL>
+    </authorizedRepresentative>
+    <authorizedRepresentative>
+        <baseInfo>
+            <lastName>Овчинников</lastName>
+            <firstName>Станислав</firstName>
+            <middleName>Тигранович</middleName>
+            <position>доверенное лицо</position>
+            <powerOfAttorney>
+                <title>Доверенность</title>
+                <number>б/н</number>
+                <issueDate>2021-12-06+03:00</issueDate>
+            </powerOfAttorney>
+        </baseInfo>
+        <loginSBBOL>ovchinnikov-st</loginSBBOL>
+    </authorizedRepresentative>
+    <authorizedRepresentative>
+        <baseInfo>
+            <lastName>Овчинников</lastName>
+            <firstName>Станислав</firstName>
+            <middleName>Тигранович</middleName>
+            <position>доверенное лицо</position>
+            <powerOfAttorney>
+                <title>Доверенность</title>
+                <number>бн</number>
+                <issueDate>2021-12-06+03:00</issueDate>
+            </powerOfAttorney>
+        </baseInfo>
+        <loginSBBOL>ovchinnikov-st</loginSBBOL>
+    </authorizedRepresentative>
+    <authorizedRepresentative>
+        <baseInfo>
+            <lastName>Пименов</lastName>
+            <firstName>Дмитрий</firstName>
+            <middleName>Анатольевич</middleName>
+            <position>доверенное лицо</position>
+            <powerOfAttorney>
+                <title>Доверенность</title>
+                <number>бн</number>
+                <issueDate>2021-12-06+03:00</issueDate>
+            </powerOfAttorney>
+        </baseInfo>
+    </authorizedRepresentative>
+</residentialComplexDetails>
