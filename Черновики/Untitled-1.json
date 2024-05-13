@@ -1,1 +1,44 @@
-WA9loxeq
+{
+    "list_mode": false,
+    "salesFunnelId": "0007f386-7b8c-11e9-83a8-1cb72cafa0f8",
+    "projects": [],
+    "clients": [],
+    "managers": [],
+    "stages": [],
+    "dateFrom": "",
+    "dateTo": "",
+    "page": 1,
+    "sortData": {
+        "sortBy": {
+            "key": "sort_by_deal_date",
+            "value": false
+        },
+        "sort": {
+            "key": "date_sort",
+            "value": "УБЫВ"
+        }
+    }
+}
+
+{
+    "userId": "432460cd-4e55-11ee-a5c6-ac1f6b476fd3",
+    "list_mode": false,
+    "salesFunnelId": "0007f386-7b8c-11e9-83a8-1cb72cafa0f8",
+    "projects": [],
+    "clients": [],
+    "managers": [],
+    "stages": [],
+    "dateFrom": "",
+    "dateTo": "",
+    "page": 1,
+    "sortData": {
+        "sortBy": {
+            "key": "sort_by_deal_date",
+            "value": false
+        },
+        "sort": {
+            "key": "date_sort",
+            "value": "УБЫВ"
+        }
+    }
+}
