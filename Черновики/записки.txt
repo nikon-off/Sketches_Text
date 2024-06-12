@@ -15,7 +15,7 @@ https://app.4dev.app/kanban/?host=https://prog2.4dev.app&baseUrl=/api/hs/restapi
 
 Расш1_Дев_смсСостоянияСообщений
 
-https://srv-1c-crm.corp.enco72.ru/test_kanban/?host=https://https://hq-1c-test3.corp.enco72.ru/&baseUrl=/crm_stage/hs/restapi_v1/kanban/
+https://srv-1c-crm.corp.enco72.ru/test_kanban/?host=https://https://hq-1c-test3.corp.enco72.ru/&baseUrl=/crm_stage/hs/restapi_v1/kanban/&token=5c97b97d-0d09-45db-b738-7b485392b81a
 
 /ipoteka/application/api/v1/products
 /ipoteka/application/api/v1/products
@@ -72,6 +72,12 @@ CRM_Событие
 	ТЧКлиент = "КоммерческоеПредложение, ЭлектронноеПисьмоИсходящее,ЭлектронноеПисьмоВходящее,CRM_РассылкаЭлектронныхПисем";
 	
 	Партнер = "CRM_БизнесПроцесс, CRM_Событие";
+
+
+	Уточнение = ОбщегоНазначенияКлиентСервер.СвойствоСтруктуры(ДополнительныеСвойства, "Уточнение"); 
+	Уточнение = ОбщегоНазначенияКлиентСервер.СвойствоСтруктуры(ДополнительныеСвойства, "Уточнение"); 
+	Уточнение = ОбщегоНазначенияКлиентСервер.СвойствоСтруктуры(ДополнительныеСвойства, "Уточнение"); 
+	Уточнение = ОбщегоНазначенияКлиентСервер.СвойствоСтруктуры(ДополнительныеСвойства, "Уточнение"); 
 
 
 
@@ -261,4 +267,17 @@ CRM_БазовыеПрава
 УПДК_ДобавлениеИзменениеЗаказКлиента
 УПДК_ДобавлениеИзменениеКорректировкаЗаказаКлиента
 УПДК_ДобавлениеИзменениеСобытий
-УПДК_РазделПродажи
+УПДК_РазделПродажи\
+
+
+
+check_mobile_code
+objects_by_client
+
+window.setMsgTypes('[{"id":"SMS","name":"SMS"}]')
+window.updateKanban('{"userId":"432460cd-4e55-11ee-a5c6-ac1f6b476fd3","list_mode":false,"salesFunnelId":"d3694347-122f-11ef-84fa-0025903468f5","projects":[],"clients":[],"managers":[],"stages":[],"dateFrom":"","dateTo":"","page":1,"sortData":{"sortBy":{"key":"sort_by_deal_date","value":false},"sort":{"key":"date_sort","value":"УБЫВ"}}}')
+
+window.setMsgTypes('[{"id":"SMS","name":"SMS"},{"id":"dd24c9dd-1120-11ef-84fa-0025903468f5","name":"Telegram"}]')
+window.updateKanban('{"list_mode":false,"salesFunnelId":"0007f386-7b8c-11e9-83a8-1cb72cafa0f8","projects":[],"clients":[],"managers":[],"stages":[],"dateFrom":"2024-05-13","dateTo":"2024-05-19","page":1,"sortData":{"sortBy":{"key":"sort_by_deal_date","value":false},"sort":{"key":"date_sort","value":"УБЫВ"}}}')
+
+window.updateKanban('{"userId":"43831327-adf3-11ed-a5c3-ac1f6b476fd3","list_mode":false,"salesFunnelId":"0007f386-7b8c-11e9-83a8-1cb72cafa0f8","projects":[],"clients":[],"managers":["e80f2a0c-7b8b-11e9-83a8-1cb72cafa0f8","9c73a656-b018-11ec-84d0-0025903468f5","43831327-adf3-11ed-a5c3-ac1f6b476fd3","432460cd-4e55-11ee-a5c6-ac1f6b476fd3"],"stages":[],"dateFrom":"2024-05-13","dateTo":"2024-05-19","page":1,"sortData":{"sortBy":{"key":"sort_by_deal_date","value":false},"sort":{"key":"date_sort","value":"УБЫВ"}}}')

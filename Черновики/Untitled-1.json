@@ -1,35 +1,42 @@
 {
     "list_mode": false,
-    "salesFunnelId": "0007f386-7b8c-11e9-83a8-1cb72cafa0f8",
-    "projects": [],
-    "clients": [],
-    "managers": [],
-    "stages": [],
-    "dateFrom": "",
-    "dateTo": "",
-    "page": 1,
-    "sortData": {
-        "sortBy": {
-            "key": "sort_by_deal_date",
-            "value": false
-        },
-        "sort": {
-            "key": "date_sort",
-            "value": "УБЫВ"
-        }
-    }
+    "sales_funnel_id": "0007f386-7b8c-11e9-83a8-1cb72cafa0f8",
+    "Page": 1,
+    "PageSize": 10,
+    "users_id": [
+        "e80f2a0c-7b8b-11e9-83a8-1cb72cafa0f8",
+        "9c73a656-b018-11ec-84d0-0025903468f5",
+        "43831327-adf3-11ed-a5c3-ac1f6b476fd3",
+        "432460cd-4e55-11ee-a5c6-ac1f6b476fd3"
+    ],
+    "date_from": "2024-05-13",
+    "date_to": "2024-05-19",
+    "date_sort": "УБЫВ",
+    "sort_by_deal_date": false
 }
 
 {
-    "userId": "432460cd-4e55-11ee-a5c6-ac1f6b476fd3",
+    "list_mode": false,
+    "sales_funnel_id": "0007f386-7b8c-11e9-83a8-1cb72cafa0f8",
+    "Page": 1,
+    "PageSize": 10,
+    "date_from": "2024-05-13",
+    "date_to": "2024-05-19",
+    "date_sort": "УБЫВ",
+    "sort_by_deal_date": false
+}
+
+{
+    "userId": "43831327-adf3-11ed-a5c3-ac1f6b476fd3",
+    "full_rights": false,
     "list_mode": false,
     "salesFunnelId": "0007f386-7b8c-11e9-83a8-1cb72cafa0f8",
     "projects": [],
     "clients": [],
     "managers": [],
     "stages": [],
-    "dateFrom": "",
-    "dateTo": "",
+    "dateFrom": "2024-05-13",
+    "dateTo": "2024-05-19",
     "page": 1,
     "sortData": {
         "sortBy": {

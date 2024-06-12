@@ -14,6 +14,8 @@ sY4_vun@exix
 
 /n 4dev /p  @RE4cacib_!
 
+/n 4dev /p Dy8so#_$2ja /TESTMANAGER
+
 prog1 DimaS 123
 
 /ClearCache
